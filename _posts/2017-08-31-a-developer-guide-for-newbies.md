@@ -71,13 +71,13 @@ macOS 版本
 
 我用的是 Courier New。
 
-
+.
 
 顺便把字号设置得大一点，具体多大视自己电脑屏幕尺寸而定——顺便提一句，有研究表明，电脑屏幕越大，人的效率就越高。所以，一块儿大屏幕还是很值得投资的。
 
 设置 Terminal 的**字体字号**可以在 `Preferences > Profiles > spacegray > Text > Font` 中找到。
 
-
+.
 
 - ##### 查看是否已经安装 Python，以及 Python 版本（mac／ Linux 已内置 Python2.7，windows 需下载）
 
@@ -235,7 +235,7 @@ PyCharm 会自动保存所有改动，所以不需要再手动敲保存键。
 
 
 
-
+.
 
 #### 第1节 - 作业：
 

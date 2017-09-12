@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2016
+since: 2015
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,10 +118,9 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
-  archives: /archives/
   tags: /tags/
-  # search: /search/
+  archives: /archives/
+  about: /about/
   # sitemap: /sitemap.xml
   # commonweal: /404.html
 
