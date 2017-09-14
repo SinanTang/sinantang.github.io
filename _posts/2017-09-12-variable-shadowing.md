@@ -36,7 +36,7 @@ So why is that? Isn't the fucntion `swap()` supposed to swapped the value in lis
 
 
 
-```Python
+```python
 def rev(s):
   assert type(s) == list
   for i in range(len(s)//2):
