@@ -28,6 +28,16 @@
   line-height: 1;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.img_container{
+  text-align: center;
+}
+
 .post-body .figure .caption {
   @extend %caption;
 }
