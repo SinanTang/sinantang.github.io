@@ -1,6 +1,6 @@
 ---
 title: Variable shadowing inside functions in Python
-date: 09-12-2017 23:31:06
+date: 12-09-2017 23:31:06
 categories:
   - Python Tips
 tags:

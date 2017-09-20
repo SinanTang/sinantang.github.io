@@ -153,27 +153,23 @@ print(a)  # 输出结果：10
 
 **Python 中的变量就像是其绑定的值的姓名标签**。如，当给变量 a 赋值 1 时，`a = 1`，1 这个整数就绑了 a 的标签， 并且 1 会在内存里占一个位置：
 
-{:refdef: style="text-align: center;"}
 
-![](http://python.net/~goodger/projects/pycon/2007/idiomatic/a1tag.png)
 
-{: refdef}
+![](http://python.net/~goodger/projects/pycon/2007/idiomatic/a1tag.png){:style="margin:0 auto"}
 
 当你重新给 a 赋新值 2 时，`a = 2`，就等于把这个标签移到 2 身上了，2 此时也会在内存里占一个位置：
 
-​              ![](http://python.net/~goodger/projects/pycon/2007/idiomatic/a2tag.png) 
-
-![](http://python.net/~goodger/projects/pycon/2007/idiomatic/1.png){:.center-image}
+![](http://python.net/~goodger/projects/pycon/2007/idiomatic/a2tag.png){:style="margin:0 auto"} ![](http://python.net/~goodger/projects/pycon/2007/idiomatic/1.png){:style="margin:0 auto"}
 
 此时你无法再通过 a 来找到 1 了。如果 1 没有绑定任何其他标签（变量）的话，那 1 就不会再在内存里占位置了。
 
 如果你创建一个新变量 b，并用 a 来给 b 赋值，其实等同于在 2 身上绑了两个姓名标签，通过 a 或 b 都可以找到 2:
 
-<div class="img_container">
 
-![](http://python.net/~goodger/projects/pycon/2007/idiomatic/ab2tag.png)
 
-</div>
+![](http://python.net/~goodger/projects/pycon/2007/idiomatic/ab2tag.png){:style="margin:0 auto"}
+
+
 
 
 

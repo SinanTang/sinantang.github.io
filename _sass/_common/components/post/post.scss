@@ -28,14 +28,17 @@
   line-height: 1;
 }
 
-.center-image
-{
-    margin: 0 auto;
+img[src*='#center'] {
     display: block;
+    margin: auto;
 }
 
-.img_container{
-  text-align: center;
+.center-image
+{
+    margin: auto !important;
+    width: auto;
+    text-align: center !important;
+    display: block;
 }
 
 .post-body .figure .caption {
