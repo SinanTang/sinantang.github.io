@@ -50,9 +50,11 @@ tags:
 
 二战时，数据科学家 Abraham Wald 所在的研究组曾为英国海军的战机做过损失分析。当时从敌区飞回的飞机身上存在着这样分布的弹孔：
 
-![示意图来自 wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Survivorship-bias.png/1024px-Survivorship-bias.png?1508580302367)
+![示意图来自 wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Survivorship-bias.png/1024px-Survivorship-bias.png?1508580302367){:style="margin:0 auto"}
 
+{:.image-caption}
 
+*示意图来自 wikipedia*
 
 
 
