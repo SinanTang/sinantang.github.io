@@ -1,10 +1,10 @@
 ---
-Title: 如何成为全能的学习高手？
-Date: 04-11-2017
-Categories:
+title: 如何成为全能的学习高手？
+date: 04-11-2017
+categories:
 - Reading Notes
 - How to learn better
-Tags:
+tags:
 - learning
 - reading
 ---
