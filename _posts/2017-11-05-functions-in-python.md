@@ -368,4 +368,6 @@ NameError: name 'val' is not defined
 
 
 
-### 第6节  小节
+### 第7节  小节
+
+掌握本节的自定义函数与上一节的[条件语句](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247484143&idx=1&sn=5a9454917f90d244d2f8de44aff2329c&chksm=ea79fd67dd0e7471b5d2a2d1a6990fb749a0b6398048260ff5b5b1be073af7835fb4a28c675f&scene=21#wechat_redirect)，已经能写很多 Python 短程序了呢！
