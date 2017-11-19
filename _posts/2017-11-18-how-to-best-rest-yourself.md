@@ -1,7 +1,8 @@
 ---
-title: 能量管理 | 你真的会休息吗？
+title: 能量管理 - 你真的会休息吗？
 date: 18-11-2017 23:31:06
-categories: - How to learn better
+categories: 
+- How to learn better
 tags: 
 - learning
 - resting
@@ -44,7 +45,7 @@ tags:
 
 因此，有一段时间我认为，与其拿间歇性休息消磨光本该投入工作的精力，倒不如**乘一口气把今日清单上的工作全都做完再彻底放松**好了。
 
-![当我还抱有这种想法时写的微博](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRwBYfaicBWpPsuKFdT54GQqOXp9RvBwmWiczoic06LEWl4V7AaenGLFVJWen9658tPiaELibzOzp9VGU0A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1){:style="margin:0 auto"}
+![当我还抱有这种想法时写的微博](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRwBYfaicBWpPsuKFdT54GQqOXp9RvBwmWiczoic06LEWl4V7AaenGLFVJWen9658tPiaELibzOzp9VGU0A/0?wx_fmt=jpeg){:style="margin:0 auto"}
 
 这种策略我也实践了一段时间，有时确实非常有效，也极易给人成就感。
 
