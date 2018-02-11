@@ -13,7 +13,7 @@ tags:
 
 趁着对自己求职期的记忆依然新鲜，想趁热把这个找工作攻略系列写完，供更多正在找工作的年轻人们参考。
 
-上一篇**《从英语翻译到人工智能：我如何用两年时间跨界转行》**算作**「求职攻略课」**系列文章的开篇吧，接下来打算谈谈如何打磨简历，怎样斩获各种面试，如何与公司进行薪水谈判，怎样快速写出得体又令人印象深刻的英文邮件。
+上一篇[**《从英语翻译到人工智能：我如何用两年时间跨界转行》**](https://sinantang.github.io/career%20as%20a%20computational%20linguisitcs/natural%20language%20processing/2018/01/16/how-I-transform-myself-from-translation-to-AI/)算作**「求职攻略课」**系列文章的开篇吧，接下来打算谈谈如何打磨简历，怎样斩获各种面试，如何与公司进行薪水谈判，怎样快速写出得体又令人印象深刻的英文邮件。
 
 这个攻略系列谈的求职大背景是在欧美发达国家（因为套路相对固定可循），主要工作语言为英文，求职对象是非体制内的商业公司。不过**大道总是相通**，相信善于观察的读者都能从文中找到对你有用的信息。
 
@@ -26,7 +26,7 @@ tags:
 
 答案分别是**心态**与**匹配（match）**。
 
-如果对这两个答案毫无头绪，可以戳[这里]()回顾旧文。
+如果对这两个答案毫无头绪，可以戳[这里](https://sinantang.github.io/career%20as%20a%20computational%20linguisitcs/natural%20language%20processing/2018/01/16/how-I-transform-myself-from-translation-to-AI/)回顾旧文。
 
 .
 
