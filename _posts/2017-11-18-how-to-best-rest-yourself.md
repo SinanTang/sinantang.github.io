@@ -5,8 +5,7 @@ categories:
 - How to learn better
 tags: 
 - learning
-- resting
-- energy
+- energy management
 ---
 
 

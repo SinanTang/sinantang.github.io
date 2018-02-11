@@ -4,7 +4,7 @@ date: 2017-08-15
 categories:
 - Algorithm
 tags:
-- Python
+- python
 - algorithm
 - sorting
 - programming

@@ -8,7 +8,6 @@ tags:
   - programming
   - python
   - newbie
-
 ---
 
 这是我**面向小白写的 Python 编程教程**的第一篇。本周三已经抓勺子同学上完了这节课，得到了很多珍贵反馈，于是我把讲义初版又修改了一遍，放到⌈影子练习SinanTalk⌋上来。

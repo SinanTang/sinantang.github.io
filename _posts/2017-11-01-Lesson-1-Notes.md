@@ -5,8 +5,7 @@ categories:
 - Lecture Series Notes - Design of Computer Programs with Peter Norvig
 tags:
 - design pattern
-- Python
-- lecture notes
+- python
 ---
 
 I started a new online lecture **[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)** taught by **[Peter Norvig](http://norvig.com/)** on Udacity. The quality of this lecture series is exceptional - once again proving the importance of a great teacher! Highly recommend this course for people who are familar with Python and some basic knowledge in computer science. It's freely available on Udacity.

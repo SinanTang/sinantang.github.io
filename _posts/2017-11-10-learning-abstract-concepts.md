@@ -5,7 +5,6 @@ categories:
 - How to learn better 
 tags:
 - learning
-- learning methods
 - abstract concepts
 - life-long learner
 - Feynman technique

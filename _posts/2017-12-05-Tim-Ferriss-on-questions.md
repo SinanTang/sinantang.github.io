@@ -4,7 +4,7 @@ date: 05-12-2017 23:31:06
 categories: 
 - Reading Notes
 tags: 
-- Podcast recommendation
+- Podcasts
 - Tim Ferriss
 ---
 

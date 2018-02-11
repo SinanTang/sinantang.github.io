@@ -6,7 +6,7 @@ categories:
 tags: 
 - Dialogue System
 - Intelligent Personal Assistant
-- Siri
+- NLP
 ---
 
 
