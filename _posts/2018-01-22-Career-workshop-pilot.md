@@ -2,7 +2,7 @@
 title: 海外求职攻略开课啦
 date: 22-01-2018
 categories:
-- Career as a computational linguisitcs
+- Career as a computational linguist
 tags: 
 - career
 - newbie
