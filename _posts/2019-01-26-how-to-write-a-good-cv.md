@@ -1,5 +1,5 @@
 ---
-title: 如何规划自己的职业道路，如何保持自学路上的执行力
+title: 如何写好一份简历
 date: 26-01-2019
 categories: 
 - Career as a computational linguist
