@@ -2,7 +2,7 @@
 title: 我的 2018 年度阅读清单
 date: 29-12-2018
 categories: 
-- Reading Notes
+- Book Review
 tags: 
 - learning
 - reading

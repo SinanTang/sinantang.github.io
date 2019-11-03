@@ -2,9 +2,9 @@
 title: 跟我去柏林电影节看电影
 date: 17-02-2019
 categories: 
-- commentary
+- Film Review
 tags:
-
+- berlinale
 ---
 
 今年二月，在天时地利人和之下，我第一次作为观众积极参加了柏林电影节。有趣的见闻颇多，忍不住在此记录下来。

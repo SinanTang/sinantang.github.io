@@ -2,7 +2,7 @@
 title: 如何成为全能的学习高手？
 date: 04-11-2017
 categories:
-- Reading Notes
+- Book Review
 - How to learn better
 tags:
 - learning

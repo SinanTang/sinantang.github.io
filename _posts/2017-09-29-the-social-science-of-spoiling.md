@@ -2,7 +2,7 @@
 title: 来自高文明的人，总在做低文明人认为浪费的事
 date: 29-09-2017
 categories: 
-- commentary
+- Book Review
 tags: 
 - reading notes
 - books 

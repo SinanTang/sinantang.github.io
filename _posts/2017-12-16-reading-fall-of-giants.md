@@ -2,9 +2,10 @@
 title: 读《巨人的陨落》：世界大战是如何打起来的？
 date: 16-12-2017 23:31:06
 categories: 
-- Reading Notes
+- Book Review
 tags: 
-- fiction
+- books
+- reading notes
 ---
 
 

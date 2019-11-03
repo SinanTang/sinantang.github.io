@@ -2,7 +2,7 @@
 title: 我的年度书单及更多 | 2017文化产品消化清单
 date: 31-12-2017 23:01:01
 categories: 
-- Reading Notes
+- Book Review
 - How to learn better
 tags: 
 - books

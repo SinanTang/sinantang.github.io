@@ -3,9 +3,9 @@ title: 大数据时代的陷阱，你掉过几回
 date: 21-10-2017 23:31:06
 categories:
 - Data Science
+- Book Review
 tags: 
 - statistics
-- data science
 ---
 
 
