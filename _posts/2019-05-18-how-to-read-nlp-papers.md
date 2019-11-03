@@ -1,5 +1,5 @@
 ---
-title: 如何阅读英文NLP论文
+title: 如何阅读英文 NLP 论文
 date: 18-05-2019
 categories: 
 - Natural Language Processing
@@ -54,21 +54,19 @@ NLP 论文不可避免地会涉及看起来很复杂的数学公式。有些数�
 
 比如，我在视频中拿来举例的那篇解释谷歌 Transformer 的重要论文《Attention is all you need》在网上就能找到非常多的解读文章、视频。我在读完论文后接着看了下面三个辅助视频，对我自己的理解非常有帮助。
 
-Yannic Kilcher: Attention is all you need. https://youtu.be/iDulhoQ2pro
+[Yannic Kilcher: Attention is all you need](https://youtu.be/iDulhoQ2pro). 
 
-Stanford CS224N (Winter 2017): Lecture 10 Neural Machine Translation and Models with Attention. https://youtu.be/IxQtK2SjWWM
+Stanford CS224N (Winter 2017): [Lecture 10 Neural Machine Translation and Models with Attention](https://youtu.be/IxQtK2SjWWM). 
 
-Stanford CS224N (Winter 2019): Transformers and Self-Attention. https://youtu.be/5vcj8kSwBCY
+Stanford CS224N (Winter 2019): [Transformers and Self-Attention](https://youtu.be/5vcj8kSwBCY).
 
 （请科学上网）
 
 重点推荐第一个视频，浅入深出，讲得特别好。
 
-![](/Users/sinansmac/Documents/_secondMac/sinantang.github.io/_posts/img/attention-is-all-you-need.png){:style="margin:0 auto"}
-
 #### 4. 去哪儿找论文
 
-有人问去哪里能找到这样的论文。如果是专门 NLP 领域内论文的话，ACL 的历年论文选集 https://aclweb.org/anthology 就是个开始的好地方。另外，大多数 NLP 网课都会推荐与每一节课内容相关的重要论文，比如 Stanford CS224N 的主页上就列了很多。最后，当你开始读论文后，就会很自然地顺着一篇论文引用文献的藤摸到更多相关论文。
+有人问去哪里能找到这样的论文。如果是专门 NLP 领域内论文的话，ACL 的[历年论文选集](https://aclweb.org/anthology)就是个开始的好地方。另外，大多数 NLP 网课都会推荐与每一节课内容相关的重要论文，比如 Stanford CS224N 的主页上就列了很多。最后，当你开始读论文后，就会很自然地顺着一篇论文引用文献的藤摸到更多相关论文。
 
 
 
