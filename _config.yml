@@ -322,19 +322,19 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
-  min2read: false
+  wordcount: true
+  min2read: true
   separated_meta: true
 
 # Wechat Subscriber
-wechat_subscriber:
-  enabled: true
-  qcode: /assets/images/wechat-qcode.png
-  description: Want to read more? Scan and subscribe to my WeChat public space!
+# wechat_subscriber:
+  # enabled: true
+  # qcode: /assets/images/wechat-qcode.png
+  # description: Want to read more? Scan and subscribe to my WeChat public space!
 
 # Reward settings
-# reward_comment:
-#   wechatpay:
+reward_comment: 
+  wechatpay: /assets/images/wechat-pay.JPG
 #   alipay:
 
 # Declare license on posts

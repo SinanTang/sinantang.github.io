@@ -3,7 +3,7 @@ title: about me
 layout: page
 ---
 
-Hi
+Hi there,
 
 I'm glad that you finally discovered my site!
 
