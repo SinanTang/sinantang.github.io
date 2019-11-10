@@ -5,7 +5,7 @@
 
 # Site
 title: SinanTalk
-# subtitle:
+subtitle: 
 description: moments of serendipity
 author: Sinan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -320,11 +320,11 @@ post_meta:
   categories: true
 
 # Post wordcount display settings
-# post_wordcount:
-#   item_text: true
-#   wordcount: false
-#   min2read: false
-#   separated_meta: false
+post_wordcount:
+  item_text: true
+  wordcount: false
+  min2read: false
+  separated_meta: true
 
 # Wechat Subscriber
 # wechat_subscriber:
@@ -333,9 +333,9 @@ post_meta:
   # description: Want to read more? Scan and subscribe to my WeChat public space!
 
 # Reward settings
-reward_comment: ":heart:"
-  wechatpay: /assets/images/wechat-pay.png
-#   alipay:
+reward_comment: Support this independent blog by donating a coffee to the writer :)
+wechatpay: /assets/images/wechat-pay.png
+# alipay:
 
 # Declare license on posts
 post_copyright:
