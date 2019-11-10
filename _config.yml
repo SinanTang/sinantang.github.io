@@ -322,9 +322,9 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
-  min2read: true
-  separated_meta: true
+  wordcount: false
+  min2read: false
+  separated_meta: false
 
 # Wechat Subscriber
 # wechat_subscriber:
@@ -333,7 +333,7 @@ post_wordcount:
   # description: Want to read more? Scan and subscribe to my WeChat public space!
 
 # Reward settings
-reward_comment: 
+reward_comment: ":heart:"
   wechatpay: /assets/images/wechat-pay.JPG
 #   alipay:
 
