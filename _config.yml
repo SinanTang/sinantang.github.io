@@ -5,7 +5,7 @@
 
 # Site
 title: SinanTalk
-subtitle:
+# subtitle:
 description: moments of serendipity
 author: Sinan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -15,7 +15,7 @@ date_format: '%d-%m-%Y'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: 'https://sinantang.github.io'
-baseurl:
+# baseurl:
 permalink: pretty
 
 # Pagination
@@ -334,7 +334,7 @@ post_meta:
 
 # Reward settings
 reward_comment: ":heart:"
-  wechatpay: /assets/images/wechat-pay.JPG
+  wechatpay: /assets/images/wechat-pay.png
 #   alipay:
 
 # Declare license on posts
