@@ -186,7 +186,7 @@ git status                   # 再次查看 git 状态，当所有改动都已�
 
 为了加深小白对 **add / commit / push** 提交改动三步曲的理解，我找到了下图——
 
-![](https://mmbiz.qpic.cn/mmbiz_png/ETsNbcnZdRy65bygnBWDlQwCz9Eq0PSvfAWgLibHfxHbpeEmSkWp2scKGa03QdfYEHju5cbXPib2oia2jaoMfS7pA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![](https://mmbiz.qpic.cn/mmbiz_png/ETsNbcnZdRy65bygnBWDlQwCz9Eq0PSvfAWgLibHfxHbpeEmSkWp2scKGa03QdfYEHju5cbXPib2oia2jaoMfS7pA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1){:style="margin:0 auto"}
 
 {:.image-caption}
 

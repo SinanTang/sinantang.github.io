@@ -5,8 +5,6 @@ categories:
 - Natural Language Processing
 tags: 
 - Dialogue System
-- Intelligent Personal Assistant
-- NLP
 ---
 
 

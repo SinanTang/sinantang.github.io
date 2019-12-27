@@ -12,15 +12,15 @@ tags:
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRyiaXQAvUSv696df4ghH6UMkRibsxA7L82M2CCcdvDbRQErNFv5puyt8ne04JpnBFTd3sb95O7f72gg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-#####  
+ 
 
-#### 关于冥想
+### 关于冥想
 
 尽管冥想的最朴素定义非常简单，几乎人人都听过——“清空大脑，把注意力放在呼吸上”，但很多人依然像以前的我一样无法培养起这个习惯，也自然无法体验到其中巨大妙处。这次跟着引导音频进行冥想练习，我才发现这件 simple-but-not-easy 的事中其实存在不同练习深度和方法技巧，并不是仅仅“要把注意力放在呼吸上”这么单薄。
 
 比如，从未冥想过的人适合从“觉察自己的呼吸”开始，已有一些经验的人则可以尝试进入“开放自己的头脑空间，观察所有想法流动”的更高阶冥想。
 
-###  
+ 
 
 ### 冥想带给我的几重惊喜：
 
