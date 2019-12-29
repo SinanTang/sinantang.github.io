@@ -5,22 +5,20 @@ layout: page
 
 Hi there,
 
-I'm glad that you finally discovered my site!
+This is my personal blogging space. 
 
 
 
-I'm Sinan! 
+I'm Sinan, a ...
 
-
-
-I'm a ...
-
-  … computational linguist, independent blogger, life-long learner, art-lover and a growing developer.
+  … computational linguist, independent blogger and avid reader!
 
 ![photo by sinan](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRy3icsicsf7bXCRFP7ocrtSexdUkNlQwHEGubHtavX6kgGSF0ibbiciapLQiaI7fqKgX7ZIRlCPeW3ggK0A/0?wx_fmt=jpeg)
 
 {:.image-caption}
 
-*photo by Sinan*
+*Freiburg. Photo by Sinan*
+
+
 
 Feel free to drop me a message: tangsinan92 (at) gmail.com
