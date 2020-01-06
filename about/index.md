@@ -1,6 +1,7 @@
 ---
 title: about me
 layout: page
+typora-copy-images-to: ../../../../Pictures/Photos Library.photoslibrary
 ---
 
 Hi there,
@@ -13,12 +14,13 @@ I'm Sinan, a ...
 
   … computational linguist, independent blogger and avid reader!
 
-![photo by sinan](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRy3icsicsf7bXCRFP7ocrtSexdUkNlQwHEGubHtavX6kgGSF0ibbiciapLQiaI7fqKgX7ZIRlCPeW3ggK0A/0?wx_fmt=jpeg)
+![photo by sinan](../assets/images/sakura.jpg){:style="margin:0 auto"}
 
 {:.image-caption}
 
-*Freiburg. Photo by Sinan*
+*Sakura in Osaka. Photo by Sinan*
 
 
 
 Feel free to drop me a message: tangsinan92 (at) gmail.com
+
