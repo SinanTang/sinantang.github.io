@@ -1,7 +1,6 @@
 ---
 title: about me
 layout: page
-typora-copy-images-to: ../../../../Pictures/Photos Library.photoslibrary
 ---
 
 Hi there,

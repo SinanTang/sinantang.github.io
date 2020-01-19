@@ -1,12 +1,11 @@
 ---
-title: A different Approach to New Year Resolutions 一份不一样的新年计划指南
+title: A Different Approach to New Year Resolutions 一份不一样的新年计划指南
 date: 16-01-2020
 categories: 
 - Self improvement
 tags: 
 - philosophy
 - planning
-typora-copy-images-to: ../../../../Pictures/Photos Library.photoslibrary
 ---
 
 

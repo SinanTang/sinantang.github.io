@@ -9,7 +9,6 @@ tags:
   - python
   - newbie
   - problem solving
-  - Harari
 ---
 
 这是我**面向小白写的 Python 编程教程**的第三篇。拿勺子同学当小白鼠讲过一遍后，就把修改完的讲义发到**⌈影子练习SinanTalk⌋**上来啦。
