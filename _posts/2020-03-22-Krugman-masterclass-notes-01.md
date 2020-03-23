@@ -1,5 +1,5 @@
 ---
-title: 大师课学习笔记：Krugman的经济课01
+title: 大师课学习笔记：Krugman 的经济学课 01
 date: 22-03-2020
 categories: 
 - MasterClass Learning Notes
