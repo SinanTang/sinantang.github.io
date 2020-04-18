@@ -1,5 +1,5 @@
 ---
-title: 6年后重考高考英语给我的收获
+title: 六年后重考高考英语给我的收获
 date: 17-06-2017
 categories: 
 - Self improvement

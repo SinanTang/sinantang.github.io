@@ -12,11 +12,11 @@ tags:
 
 关于英语（语言）学习，我其实已经写过好几篇文章，比如：
 
-  [《雅思阅读满分的人都值得看的英语高级阅读方法》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483899&idx=1&sn=054ee9a10aef0a07c3b3c7d376cb5115&chksm=ea79fe73dd0e77659b6c1d762d3d36648353f2e96786743c5b165dbc2adc86bb6d1f90543ee9&scene=21#wechat_redirect)
+  [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/self improvement/2017/04/19/english-reading-compresion-techniques/)
 
-  [《那个会说十几门外语的美国小哥来了》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483933&idx=1&sn=29574b084dd9cf421cf0613b29c9a026&chksm=ea79fd95dd0e7483504a422213901978f9cc4c5acc19ba3df95ddf67f762daf3c10469c580f1&scene=21#wechat_redirect)
+  [《那个会说十几门外语的美国小哥来了》](https://sinantang.github.io/self improvement/2017/05/17/interviewing-a-polyglot/)
 
-  [《今天我又重考了一回高考英语》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483998&idx=1&sn=06a8723d30ad2fe758cf9a56a21d1daa&chksm=ea79fdd6dd0e74c05301fe652c4e86b82104b872928f53cbaab99c4289282d44760284f4fe0a&scene=21#wechat_redirect)
+  [《六年后重考高考英语给我的收获》](https://sinantang.github.io/self improvement/2017/06/17/retaking-gaokao-english-after-6-years/)
 
   [《隐喻的世界：浅谈语言对思维的反向塑造》](https://sinantang.github.io/linguistics/2017/02/26/metaphor-and-how-language-reshapes-our-mind/)
 
@@ -58,7 +58,7 @@ tags:
 
 解决问题最重要前提就是提出一个好问题。不论是请人解答还是自己思考，都请先明确你的问题到底是什么。
 
-关于“如何提问”，我已经写过几篇文章，比如[《万能思维框架：WHAT, HOW, WHY | 由浅入深掌握新技能》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247484072&idx=1&sn=4ac7aa5d1e2b71704f150f765b0148d2&chksm=ea79fd20dd0e743621c999d9317c62a9cc197cbb0a8dd8288192c43656132019a6b64524e146&scene=21#wechat_redirect)、[《Tim Ferriss 教你如何提问》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247484211&idx=1&sn=6783491cefb70abb354fc165e99e5f8d&chksm=ea79fcbbdd0e75adf9f7843c1c17ed7d153e4a9afedd480b5d308149e3469bbd58c8258d17c8&scene=21#wechat_redirect)，供读者参考。
+关于“如何提问”，我已经写过几篇文章，比如[《万能思维框架：WHAT, HOW, WHY | 由浅入深掌握新技能》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247484072&idx=1&sn=4ac7aa5d1e2b71704f150f765b0148d2&chksm=ea79fd20dd0e743621c999d9317c62a9cc197cbb0a8dd8288192c43656132019a6b64524e146&scene=21#wechat_redirect)、[《Tim Ferriss 教你如何提问》](https://sinantang.github.io/reading notes/2017/12/05/Tim-Ferriss-on-questions/)，供读者参考。
 
 
 
@@ -110,7 +110,7 @@ tags:
 
 #### 如何提高英语阅读
 
-见[《雅思阅读满分的人都值得看的英语高级阅读方法》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483899&idx=1&sn=054ee9a10aef0a07c3b3c7d376cb5115&chksm=ea79fe73dd0e77659b6c1d762d3d36648353f2e96786743c5b165dbc2adc86bb6d1f90543ee9&scene=21#wechat_redirect)。
+见 [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/self improvement/2017/04/19/english-reading-compresion-techniques/)
 
 
 
