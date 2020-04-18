@@ -3,7 +3,6 @@ title: 博主博主，你是怎么学好英语的啊？干货满满的英文学�
 date: 10-09-2018
 categories: 
 - Self improvement
-- Letters to Readers
 tags:
 - learning
 ---
@@ -58,7 +57,9 @@ tags:
 
 解决问题最重要前提就是提出一个好问题。不论是请人解答还是自己思考，都请先明确你的问题到底是什么。
 
-关于“如何提问”，我已经写过几篇文章，比如[《万能思维框架：WHAT, HOW, WHY | 由浅入深掌握新技能》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247484072&idx=1&sn=4ac7aa5d1e2b71704f150f765b0148d2&chksm=ea79fd20dd0e743621c999d9317c62a9cc197cbb0a8dd8288192c43656132019a6b64524e146&scene=21#wechat_redirect)、[《Tim Ferriss 教你如何提问》](https://sinantang.github.io/reading notes/2017/12/05/Tim-Ferriss-on-questions/)，供读者参考。
+
+
+关于“如何提问”，我已经写过几篇文章，比如[《Tim Ferriss 教你如何提问》](https://sinantang.github.io/reading notes/2017/12/05/Tim-Ferriss-on-questions/)，[《万能思维框架 WHAT HOW WHY》](https://sinantang.github.io/reading%20notes/self%20improvement/how%20to%20learn%20better/2017/08/14/thinking-framework-of-what-how-why/) 供读者参考。
 
 
 
@@ -66,7 +67,7 @@ tags:
 
 **A:** 这是提高英语听力的一个入门级难点。由于英语口语中存在大量**连读、弱读、省音**等发音现象，你听到的"tomorrow"并不是你自己在发的那个“tomorrow”，于是就导致简单常见的单词反而听不懂了。
 
-解决这个难点的方法很简单，但需要积累大量练习时数。听力的基础“磨耳朵”练习——**「精听」+「泛听」**即是这个方法。具体方法细节可以参考《<哈佛女孩刘亦婷>之二： 刘亦婷的学习方法和培养细节》这本书提供的一个思路。以前在[旧文](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483859&idx=1&sn=361bde3437df3e8f33a5a29b67ecb871&chksm=ea79fe5bdd0e774d36e70f8257aa25862c4ae87138c7996617db70dad7aeaa8bfd42f0408282&scene=21#wechat_redirect)里推荐这套书时，写过下面一段话，供你参考：
+解决这个难点的方法很简单，但需要积累大量练习时数。听力的基础“磨耳朵”练习——**「精听」+「泛听」**即是这个方法。具体方法细节可以参考《<哈佛女孩刘亦婷>之二： 刘亦婷的学习方法和培养细节》这本书提供的一个思路。以前在旧文里推荐这套书时，写过下面一段话，供你参考：
 
 > “可以毫不夸张地说，我在学业上的启蒙很大一部分始于初中读了“刘亦婷的学习方法”。特别是英语，在那之前我的英语一直不温不火，后来采用了书中介绍的学习方法坚持了一段时间后，明显感觉到我的耳朵对英语发音的确敏感了很多，第一次听到了以前从未捕捉到过的弱读、连读、音调等发音现象。而扎实的听力基本功也是讲一口漂亮英语的基础。因此我初中时就打下了英语学习的基础，从那以后就一直属于周围英语最好的那一小撮人。”
 
@@ -104,7 +105,7 @@ tags:
 
 关于念不准短单词中元音的后果，我想起以前的一条微博 :)
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRxoibUHWG7Adib2uMsviaAj5ASH5ibiaw7kY6SZ0RTZQ45x1tLQBjCINHMVMicY9MYWNxfESaCUl65ZgzWQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](../../../../../assets/images/vowels.png){:style="margin:0 auto"}
 
 
 
@@ -124,7 +125,7 @@ tags:
 
 除此之外，英语写作可以学习的主要是**写作范式**。尤其对于常写英语论文的留学生来说，学会学术写作的范式和风格很重要。除了学校给的 reading list 外，我想推荐一本有名的英文科普类书，《The Selfish Gene》。我最近在读的时候发过这么一条微博：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRxoibUHWG7Adib2uMsviaAj5ASZmFAN8EcPRVrgmGErOAlSuUdddwqjP66Xz0v69l6dic4Le5ALofmQQg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](../../../../../assets/images/writing-sample.png){:style="margin:0 auto"}
 
 
 
