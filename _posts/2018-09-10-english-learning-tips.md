@@ -3,6 +3,7 @@ title: 博主博主，你是怎么学好英语的啊？干货满满的英文学�
 date: 10-09-2018
 categories: 
 - Self improvement
+- Letters to Readers
 tags:
 - learning
 ---
@@ -17,7 +18,7 @@ tags:
 
   [《今天我又重考了一回高考英语》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483998&idx=1&sn=06a8723d30ad2fe758cf9a56a21d1daa&chksm=ea79fdd6dd0e74c05301fe652c4e86b82104b872928f53cbaab99c4289282d44760284f4fe0a&scene=21#wechat_redirect)
 
-  [《隐喻的世界：浅谈语言对思维的反向塑造》](http://mp.weixin.qq.com/s?__biz=MzI1OTQ1MTYyMw==&mid=2247483869&idx=1&sn=df44943139a6810979914f84ad8c8a0b&chksm=ea79fe55dd0e7743debfe49891db97efbc89b299d9a957564b177e812794b20336fcc21a87b8&scene=21#wechat_redirect)
+  [《隐喻的世界：浅谈语言对思维的反向塑造》](https://sinantang.github.io/linguistics/2017/02/26/metaphor-and-how-language-reshapes-our-mind/)
 
 甚至为了响应小伙伴们要提高英语阅读水平的需求，我还办过两期「我的第一本英文原版书」读书社（现已完结，暂无新开计划）。
 
