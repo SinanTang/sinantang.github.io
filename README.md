@@ -2,10 +2,10 @@
 
 please visit: [sinantang.github.io](https://sinantang.github.io/)
 
-collection of my previous and current blogs (at the moment mostly in Chinese, but I'm trying to write more in English!)
+collection of my main blogs (at the moment mostly in Chinese, but I'm trying to write more in English!)
 
 
-I finally got a chance to reorganise and review my blogs which I've been writing since 2-3 years ago.
+I finally got a chance to reorganise and review my blogs which I've been writing since 2016.
 They were riginally published on WeChat Public Space and some on Jianshu.com. With the wish to reach a more diverse readership, I picked a few satisfying articles and put them up on my new personal site now.
 
 
