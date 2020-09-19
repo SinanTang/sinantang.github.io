@@ -3,7 +3,7 @@ title: 聊聊工程师职场中的细节
 date: 24-09-2018
 categories: 
 - Self improvement
-- Career as a computational linguist
+- Career as an NLP Engineer
 - A Developer Guide for Newbies - Starting with Python
 tags:
 - programming

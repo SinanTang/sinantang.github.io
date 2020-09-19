@@ -2,11 +2,10 @@
 title: Common Sorting Algorithms Implemented in Python 3.6
 date: 2017-08-15
 categories:
-- Algorithm
+- Algorithms
 tags:
 - python
 - algorithm
-- sorting
 - programming
 ---
 

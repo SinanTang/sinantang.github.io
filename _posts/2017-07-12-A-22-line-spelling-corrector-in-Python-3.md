@@ -3,20 +3,18 @@ title: A 22-line spelling corrector in Python 3
 date: 12-07-2017 23:01:01
 categories:
 - Natural Language Processing
-- Algorithm
+- Algorithms
 tags: 
 - python
 - algorithm
 - programming
 ---
 
-Slides for my presentation on an interesting 22-line spelling corrector implemented in Python 3 at one of the CoLi (Computational Linguistics) meetups.
+Slides for my presentation on an interesting 22-line spelling corrector implemented in Python at one of the CoLi (Computational Linguistics) meetups during my internship at IBM Watson.
 
-Project (including codes) address: github.com/SinanTang/SpellingCorrector-Python
+Project (including code) address: github.com/SinanTang/SpellingCorrector-Python
 
 
-
-![a 22-line spelling corrector in Python-1](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRxaWKeqyBcPay3jaicpCENEL4An5ObbW58UJicBmaXZxdNLMWyAko8TmAWeibbmY6HBjiaUiadtfYhsNfA/0?wx_fmt=jpeg)
 
 ![a 22-line spelling corrector in Python-2](https://mmbiz.qpic.cn/mmbiz_jpg/ETsNbcnZdRxaWKeqyBcPay3jaicpCENELkUvfk2JQy7Jb3j22kBy4r9ibKWqGkVdgbZTO7f7G28CzWSYR2RZYMLw/0?wx_fmt=jpeg)
 
