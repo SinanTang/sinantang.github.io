@@ -2,7 +2,7 @@
 title: 编程的乐趣
 date: 14-03-2018
 categories: 
-- Career as a computational linguist
+- Career as an NLP Engineer
 - A Developer Guide for Newbies - Starting with Python
 tags:
 - programming

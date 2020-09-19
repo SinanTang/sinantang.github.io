@@ -2,11 +2,10 @@
 title: 如何写好一份简历
 date: 26-01-2019
 categories: 
-- Career as a computational linguist
+- Career as an NLP Engineer
 tags: 
 - career
 - job hunting
-- learning
 ---
 
 

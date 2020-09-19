@@ -3,6 +3,7 @@ title: Newsletters that I subscribe to and actually read
 date: 21-06-2020
 categories:
 - Others
+- Reading Notes
 tags:
 - reading
 ---

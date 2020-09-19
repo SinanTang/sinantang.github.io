@@ -3,7 +3,7 @@ title: 我是如何自学编程的
 date: 02-09-2018
 categories: 
 - Self improvement
-- Career as a computational linguist
+- Career as an NLP Engineer
 - A Developer Guide for Newbies - Starting with Python
 tags:
 - programming

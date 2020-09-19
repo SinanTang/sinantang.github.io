@@ -4,7 +4,6 @@ date: 29-09-2017
 categories: 
 - Book Review
 tags: 
-- reading notes
 - books 
 ---
 

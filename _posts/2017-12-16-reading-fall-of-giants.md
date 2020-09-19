@@ -4,8 +4,6 @@ date: 16-12-2017 23:31:06
 categories: 
 - Book Review
 tags: 
-- books
-- reading notes
 ---
 
 

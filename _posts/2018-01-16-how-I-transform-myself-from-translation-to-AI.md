@@ -2,7 +2,7 @@
 title: 从英语翻译到人工智能：我如何用两年时间跨界转行
 date: 16-01-2018 23:01:01
 categories: 
-- Career as a computational linguist
+- Career as an NLP Engineer
 - Natural Language Processing
 tags: 
 - career
