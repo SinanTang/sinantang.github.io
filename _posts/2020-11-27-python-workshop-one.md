@@ -14,7 +14,7 @@ tags:
 
 Here are the slides from my「Learn Python with NLP Projects」workshop series, Part 1 on the 27th of Nov, 2020. 
 
-Find slides for Part 2 [here](https://sinantang.github.io/natural%20language%20processing/2020/11/27/python-workshop-two/).
+Find slides for Part 2 [here](https://sinantang.github.io/natural%20language%20processing/2020/12/04/python-workshop-two/).
 
 ![slide1](../../../../../assets/images/workshop1/Slide1.jpg){:style="margin:0 auto"}
 
