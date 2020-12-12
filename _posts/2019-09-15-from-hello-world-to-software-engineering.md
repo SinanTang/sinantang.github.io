@@ -3,7 +3,6 @@ title: 从 Hello World 到软件开发 | 读者信箱
 date: 15-09-2019
 categories: 
 - A Developer Guide for Newbies - Starting with Python
-- Letters to Readers
 tags: 
 - programming
 - career
