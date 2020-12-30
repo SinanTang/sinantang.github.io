@@ -11,7 +11,7 @@ This is my personal blogging space.
 
 I'm Sinan, a ...
 
-  … computational linguist, independent blogger and avid reader!
+  … NLP engineer, independent blogger and avid reader!
 
 ![photo by sinan](../assets/images/sakura.jpg){:style="margin:0 auto"}
 
