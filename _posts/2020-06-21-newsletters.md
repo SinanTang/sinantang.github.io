@@ -46,18 +46,6 @@ To subscribe: [here](https://www.ben-evans.com/newsletter)
 
 
 
-#### Recommendo by Kevin Kelly
-
-> *A weekly newsletter that gives you 6 brief personal recommendations of cool stuff.*
-
-I'd say that most people aware of Kevin Kelly might be interested in what kind of "personal cool stuff" he is up to recently. I have been reading his newletter for a while and it has given me some delightful and curious recommendations from time to time.
-
-
-
-To subscribe: [here](https://www.getrevue.co/profile/Recomendo)
-
-
-
 #### LINGUIST List
 
 LINGUIST List is actually a mailing list distributing issues from their site rather than a conventional newsletter.
