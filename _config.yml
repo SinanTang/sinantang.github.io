@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: SinanTalk
+title: SinansNotes
 subtitle: 
 description: moments of serendipity
 author: Sinan
@@ -333,8 +333,8 @@ post_wordcount:
   # description: Want to read more? Scan and subscribe to my WeChat public space!
 
 # Reward settings
-reward_comment: Support this independent blog by donating a coffee to the writer :)
-wechatpay: /assets/images/wechat-pay.png
+# reward_comment: Support this independent blog by donating a coffee to the writer :)
+# wechatpay: /assets/images/wechat-pay.png
 # alipay:
 
 # Declare license on posts
