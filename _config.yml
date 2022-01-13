@@ -6,7 +6,7 @@
 # Site
 title: SinansNotes
 subtitle: 
-description: moments of serendipity
+description: making a dent in the universe
 author: Sinan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -220,6 +220,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/SinanTang
   Weibo: http://weibo.com/yingzilianxi
+  Twitter: https://twitter.com/Lynnswald
 
 
 # Social Links Icons
@@ -232,7 +233,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  # Twitter: twitter
+  Twitter: twitter
   Weibo: weibo
 
 
