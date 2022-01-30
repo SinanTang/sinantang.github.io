@@ -2,7 +2,7 @@
 title: 普通人如何做出优质决策
 date: 30-01-2022
 categories: 
-- Think better
+- Thinking Tools
 tags:
 - reading
 - philosophy

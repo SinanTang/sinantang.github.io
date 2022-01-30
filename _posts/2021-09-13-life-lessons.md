@@ -2,7 +2,7 @@
 title: 写给19岁的自己的9条忠告
 date: 13-09-2021
 categories: 
-- Self improvement
+- Thinking Tools
 tags: 
 - philosophy
 - books

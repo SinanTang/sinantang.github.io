@@ -2,7 +2,7 @@
 title: The Food Chain of Information
 date: 09-01-2021
 categories:
-- Others
+- Thinking Tools
 tags:
 - career
 ---
