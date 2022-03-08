@@ -11,9 +11,15 @@ tags:
 
 ![yan-interview](../../../../../assets/images/yan-title-card.jpeg){:style="margin:0 auto"}
 
-Please find the complete interview on YouTube [here](https://www.youtube.com/watch?v=q98HcrTqKlw).
+To celebrate International Women’s Day and Women’s History Month in March, I’m interviewing 4 exceptional female professionals who I admire to talk about topics on career development, leadership and gender equality in STEM.
 
+My first guest is Dr. Yan, AI and Machine Learning Architect with over 15 years’ experience in the biotech industry. Yan shared her experience starting in this interdisciplinary field more than two decades ago and growing her expertise ever since. We also touched on topics like work / life balance as a working parent before and during the Pandemic, how to improve the ratio of women in management and more.
 
+You can find a summary of our conversations in this blog post.
+
+For the complete interview, please watch this video on Yan’s YouTube channel [here](https://www.youtube.com/watch?v=q98HcrTqKlw).
+
+------
 
 **Sinan**: Please tell us who you are and what you do professionally.
 
