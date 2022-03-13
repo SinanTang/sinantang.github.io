@@ -1,23 +1,27 @@
 ---
-title: about me
+title: the about page
 layout: page
 ---
 
-Hi there,
+Hey 👋
 
-This is my personal blogging space. 
+Thanks for checking out my personal blogging space!
 
 
 
-I'm Sinan, a ...
+I'm Sinan -- NLP engineer by day, content creator by night.
 
-  … NLP engineer, independent blogger and avid reader!
 
-![photo by sinan](../assets/images/sakura.jpg){:style="margin:0 auto"}
+
+I write on books, thinking tools, productivity, career development and technology.
+
+
+
+![freiburg](../assets/images/freiburg.JPG){:style="margin:0 auto"}
 
 {:.image-caption}
 
-*Sakura in Osaka. Photo by Sinan*
+*Frieburg in winter*
 
 
 
