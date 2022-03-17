@@ -1,12 +1,13 @@
 ---
-title: Interviewing Dr. Yan -- AI and Biotech, finding your niche, work/life balance, transfer learning and more
+title: Interviewing Dr. Yan -- AI and Biotech, finding your niche, work/life balance, transfer learning, and more
 date: 08-03-2022
 categories: 
 - Interviews
 tags:
 - career
 - problem solving
-- feminism
+- engineering
+- biotech
 ---
 
 ![yan-interview](../../../../../assets/images/yan-title-card.jpeg){:style="margin:0 auto"}
