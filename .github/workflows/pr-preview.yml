@@ -30,8 +30,8 @@ jobs:
 
       - name: Build preview site
         run: |
-          # Build with PR-specific baseurl
-          bundle exec jekyll build --baseurl "/pr-${{ github.event.number }}" -d "_site"
+          # Build for RawGitHack serving (no baseurl needed)
+          bundle exec jekyll build -d "_site"
         env:
           JEKYLL_ENV: "staging"
 
