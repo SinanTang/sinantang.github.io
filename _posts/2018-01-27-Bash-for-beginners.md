@@ -1,6 +1,6 @@
 ---
 title: 写给小白的第一份命令行工具Bash教程
-date: 27-01-2018
+date: 2018-01-27
 categories: 
 - A Developer Guide for Newbies - Starting with Python
 tags: 

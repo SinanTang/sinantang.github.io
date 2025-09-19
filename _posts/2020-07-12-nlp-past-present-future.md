@@ -1,6 +1,6 @@
 ---
 title: 自然语言处理的前世今生与未来展望
-date: 12-07-2020
+date: 2020-07-12
 categories:
 - Natural Language Processing
 tags:
@@ -76,4 +76,4 @@ ACL会议当时只有200人参加。
 
 McKeown 教授对业内研究者的期望则已总结在下面这页演讲幻灯片里了：
 
-![keynote finalwords](../../../../../assets/images/acl-keynote.png){:style="margin:0 auto"}
+![keynote finalwords](/assets/images/acl-keynote.png){:style="margin:0 auto"}

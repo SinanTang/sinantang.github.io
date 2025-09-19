@@ -1,6 +1,6 @@
 ---
 title: 表达的内容与方式，哪个更重要？
-date: 23-11-2019
+date: 2019-11-23
 categories: 
 - Self improvement
 tags: 

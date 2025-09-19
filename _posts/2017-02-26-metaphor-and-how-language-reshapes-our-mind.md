@@ -1,6 +1,6 @@
 ---
 title: 隐喻的世界：浅谈语言对思维的反向塑造
-date: 26-02-2017
+date: 2017-02-26
 categories: 
 - Linguistics
 tags: 

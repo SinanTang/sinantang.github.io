@@ -1,6 +1,6 @@
 ---
 title: Interviewing Dr. Yan -- AI and Biotech, finding your niche, work/life balance, transfer learning, and more
-date: 08-03-2022
+date: 2022-03-08
 categories: 
 - Interviews
 tags:
@@ -10,7 +10,7 @@ tags:
 - biotech
 ---
 
-![yan-interview](../../../../../assets/images/yan-title-card.jpeg){:style="margin:0 auto"}
+![yan-interview](/assets/images/yan-title-card.jpeg){:style="margin:0 auto"}
 
 To celebrate International Women’s Day and Women’s History Month in March, I’m interviewing 4 exceptional female professionals who I admire to talk about topics on career development, leadership and gender equality in STEM.
 

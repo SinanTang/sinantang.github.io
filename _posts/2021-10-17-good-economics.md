@@ -1,6 +1,6 @@
 ---
 title: 《Good Economics for Hard Times》读书笔记
-date: 17-10-2021
+date: 2021-10-17
 categories: 
 - Reading Notes
 tags: 

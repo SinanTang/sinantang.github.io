@@ -1,6 +1,6 @@
 ---
 title: 如何教自己做困难但必要的事
-date: 01-04-2018
+date: 2018-04-01
 categories: 
 - Self improvement
 tags:

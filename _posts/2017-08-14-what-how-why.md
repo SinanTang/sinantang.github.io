@@ -1,6 +1,6 @@
 ---
 title: 万能思维框架 WHAT, HOW, WHY | 由浅入深掌握新技能
-date: 14-08-2017
+date: 2017-08-14
 categories: 
 - Reading Notes
 - Self improvement

@@ -1,6 +1,6 @@
 ---
 title: 大师课学习笔记：Margaret Atwood 的创意写作课
-date: 20-06-2020
+date: 2020-06-20
 categories:
 - MasterClass Learning Notes
 tags:

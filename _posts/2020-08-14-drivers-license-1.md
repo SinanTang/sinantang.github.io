@@ -1,6 +1,6 @@
 ---
 title: 在德国考驾照（一）
-date: 14-08-2020
+date: 2020-08-14
 categories:
 - Others
 tags:

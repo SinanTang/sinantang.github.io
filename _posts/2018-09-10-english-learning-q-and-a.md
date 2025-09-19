@@ -1,6 +1,6 @@
 ---
 title: 博主博主，你是怎么学好英语的啊？干货满满的英文学习 Q&A 大放送
-date: 10-09-2018
+date: 2018-09-10
 categories: 
 - Self improvement
 tags:
@@ -105,7 +105,7 @@ tags:
 
 关于念不准短单词中元音的后果，我想起以前的一条微博 :)
 
-![](../../../../../assets/images/vowels.png){:style="margin:0 auto"}
+![](/assets/images/vowels.png){:style="margin:0 auto"}
 
 
 
@@ -125,7 +125,7 @@ tags:
 
 除此之外，英语写作可以学习的主要是**写作范式**。尤其对于常写英语论文的留学生来说，学会学术写作的范式和风格很重要。除了学校给的 reading list 外，我想推荐一本有名的英文科普类书，《The Selfish Gene》。我最近在读的时候发过这么一条微博：
 
-![](../../../../../assets/images/writing-sample.png){:style="margin:0 auto"}
+![](/assets/images/writing-sample.png){:style="margin:0 auto"}
 
 
 

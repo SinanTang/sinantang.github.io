@@ -1,6 +1,6 @@
 ---
 title: 我的年度书单及更多 | 2017文化产品消化清单
-date: 31-12-2017
+date: 2017-12-31
 categories: 
 - Book Review
 tags: 

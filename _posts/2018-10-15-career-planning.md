@@ -1,6 +1,6 @@
 ---
 title: 如何规划自己的职业道路，如何保持自学路上的执行力
-date: 15-10-2018
+date: 2018-10-15
 categories: 
 - Career as an NLP Engineer
 - Self improvement

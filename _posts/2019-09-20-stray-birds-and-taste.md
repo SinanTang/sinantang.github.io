@@ -1,6 +1,6 @@
 ---
 title: 读《飞鸟集》，谈谈审美
-date: 20-09-2019
+date: 2019-09-20
 categories: 
 - Reading Notes
 - Book Review

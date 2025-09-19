@@ -1,6 +1,6 @@
 ---
 title: 沉迷买买买的消费主义误区
-date: 18-07-2019
+date: 2019-07-18
 categories: 
 - Self improvement
 tags: 

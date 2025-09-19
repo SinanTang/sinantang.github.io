@@ -1,6 +1,6 @@
 ---
 title: 高级英语阅读方法：理解中英文语法形态的大不同
-date: 19-04-2017
+date: 2017-04-19
 categories: 
 - Self improvement
 tags:
@@ -95,9 +95,9 @@ tags:
 
 
 
-![](../../../../../assets/images/reading-layers.png){:style="margin:0 auto"}
+![](/assets/images/reading-layers.png){:style="margin:0 auto"}
 
-![](../../../../../assets/images/components.png){:style="margin:0 auto"}
+![](/assets/images/components.png){:style="margin:0 auto"}
 
 
 

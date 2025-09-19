@@ -1,6 +1,6 @@
 ---
 title: 普通人如何做出优质决策
-date: 30-01-2022
+date: 2022-01-30
 categories: 
 - Thinking Tools
 tags:
@@ -50,7 +50,7 @@ Fail fast. Fail forward.
 
 #### 第三，不留恋过去，把注意力放在如何在现有条件下最大化收益之上。
 
-![decision](../../../../../assets/images/tata.jpg){:style="margin:0 auto"}
+![decision](/assets/images/tata.jpg){:style="margin:0 auto"}
 
 也许很多决定本身确实不那么重要，重要的是在那之后的行动。
 

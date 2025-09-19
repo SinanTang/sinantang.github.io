@@ -1,6 +1,6 @@
 ---
 title: 究竟是什么在决定你的生活
-date: 17-11-2019
+date: 2019-11-17
 categories: 
 - Thinking Tools
 - Book Review

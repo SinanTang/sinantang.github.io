@@ -1,6 +1,6 @@
 ---
 title: 如何宅家隔离生活也能保持高效率和好心情
-date: 10-04-2020
+date: 2020-04-10
 categories: 
 - Self improvement
 - MasterClass Learning Notes

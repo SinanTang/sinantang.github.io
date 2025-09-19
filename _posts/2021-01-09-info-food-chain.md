@@ -1,6 +1,6 @@
 ---
 title: The Food Chain of Information
-date: 09-01-2021
+date: 2021-01-09
 categories:
 - Thinking Tools
 tags:
@@ -17,11 +17,11 @@ tags:
 
 欧洲电商和网络营销（online advertising）的发展还大大落后于美国，说明这两个行业在欧洲还处于起步阶段，未来很可能会迎来快速、长线发展。
 
-![ecommerce](../../../../../assets/images/ecommerce.png){:style="margin:0 auto"}
+![ecommerce](/assets/images/ecommerce.png){:style="margin:0 auto"}
 
 报告还指出欧洲科技公司具有优势的三个行业：前沿科学（frontier science）、金融科技（fintech）、生物。
 
-![tech](../../../../../assets/images/eu-tech.png){:style="margin:0 auto"}
+![tech](/assets/images/eu-tech.png){:style="margin:0 auto"}
 
 对于一个计划或已经来欧洲留学、工作的人，这些信息得多有价值啊。这样公开、免费、准确、前沿的行业报告，却是放在普通读者面前都不怎么会去问津的信息。到底是为什么呢？
 

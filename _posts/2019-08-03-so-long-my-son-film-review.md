@@ -1,6 +1,6 @@
 ---
 title: 迟到半年的《地久天长》观后
-date: 03-08-2019
+date: 2019-08-03
 categories: 
 - Film Review
 tags: 
