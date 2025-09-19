@@ -49,7 +49,7 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            const previewUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-${prNumber}/`;
+            const previewUrl = `https://raw.githack.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/gh-pages/pr-${prNumber}/index.html`;
 
             // Find existing comment
             const comments = await github.rest.issues.listComments({
