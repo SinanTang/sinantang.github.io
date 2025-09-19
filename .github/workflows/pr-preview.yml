@@ -30,8 +30,8 @@ jobs:
 
       - name: Build preview site
         run: |
-          # Build for RawGitHack serving (no baseurl needed)
-          bundle exec jekyll build -d "_site"
+          # Build with proper baseurl for GitHub Pages subdirectory
+          bundle exec jekyll build --baseurl "/sinantang.github.io/pr-${{ github.event.number }}" -d "_site"
         env:
           JEKYLL_ENV: "staging"
 
@@ -49,7 +49,11 @@ jobs:
         with:
           script: |
             const prNumber = context.payload.pull_request.number;
-            const previewUrl = `https://raw.githack.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/gh-pages/pr-${prNumber}/index.html`;
+            const previewUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-${prNumber}/`;
+
+            // Also provide alternative access methods
+            const rawGitHackUrl = `https://raw.githack.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/gh-pages/pr-${prNumber}/index.html`;
+            const directGitHubUrl = `https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/tree/gh-pages/pr-${prNumber}`;
 
             // Find existing comment
             const comments = await github.rest.issues.listComments({
@@ -64,10 +68,14 @@ jobs:
 
             const body = `🚀 **Preview deployment ready!**
 
-            📱 **Preview URL**: ${previewUrl}
+            📱 **GitHub Pages**: ${previewUrl} *(may redirect to live site)*
+            🔗 **RawGitHack**: ${rawGitHackUrl} *(direct file access)*
+            📁 **GitHub Files**: ${directGitHubUrl} *(browse files)*
 
             ✅ Built from commit: \`${context.payload.pull_request.head.sha.slice(0, 7)}\`
-            🔄 Updates automatically on new commits`;
+            🔄 Updates automatically on new commits
+
+            💡 **Try RawGitHack link if GitHub Pages redirects to live site**`;
 
             if (botComment) {
               // Update existing comment
