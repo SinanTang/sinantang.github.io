@@ -27,7 +27,7 @@ tags:
 
 先简单科普一下，[Jekyll](https://jekyllrb.com/) 是个简单的**博客形态的静态站点生产工具**，可以通过 Jekyll 来生成可发布的网站／博客。网站需要服务器来对外发布，可以选择在 [GitHub Pages](https://pages.github.com/) 上运行，利用 GitHub 服务器不仅方便追踪历史版本、迭代更新，而且完全**免费**。
 
-> 提供与 Jekyll 类似服务的工具不止一个。我最开始尝试过 Hexo，但中途遇到一些麻烦没解决掉……无意间看到阳志平这篇[《理想的写作环境：Git+Github+Markdown+Jekyll》](http://www.yangzhiping.com/tech/writing-space.html)，就转而投向 Jekyll 的怀抱了。
+> 提供与 Jekyll 类似服务的工具不止一个。我最开始尝试过 Hexo，但中途遇到一些麻烦没解决掉……无意间看到阳志平这篇[《理想的写作环境：Git+Github+Markdown+Jekyll》](https://www.yangzhiping.com/tech/writing-space.html)，就转而投向 Jekyll 的怀抱了。
 >
 > 这也从侧面说明，对小白来说，一开始选择一门编程语言或工具入门时，最好考虑使用人数（即是否主流）这个因素，越主流网上的学习资源就越多，当你遇到问题时就更有可能搜索到解决方法。
 
@@ -106,7 +106,7 @@ bundle exec jekyll serve  #1
 以上几步都完成后，点击 `⌘T` 开一个新 Terminal tab，输入：
 
 ```shell
-open http://localhost:4000  #2
+open https://localhost:4000  #2
 ```
 
 或者也可以直接打开浏览器，输入 `localhost:4000`。

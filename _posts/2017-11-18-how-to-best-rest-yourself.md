@@ -86,7 +86,7 @@ tags:
 
 这样的心态常见，但很是危险。这种危险在于，潜意识里，你认可“工作本身的意义并不如休息时做的那些事（刷刷微博看看剧什么的）高”。这样的心态既否定了自己努力工作的意义，还容易形成消极循环——越觉得没意义就越难投入工作，因此更难收获进步或成就，最终显得更没意义了。
 
-（这一块儿感悟启发自 Paul Graham 那篇有名的[《How to do what you love》](http://www.paulgraham.com/love.html)）
+（这一块儿感悟启发自 Paul Graham 那篇有名的[《How to do what you love》](https://www.paulgraham.com/love.html)）
 
 
 
