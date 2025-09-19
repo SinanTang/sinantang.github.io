@@ -19,8 +19,7 @@ title: SinansNotes # the main title
 tagline: making a dent in the universe # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  NLP engineer by day, content creator by night.
-  I write on books, thinking tools, productivity, career development and technology.
+  Working with AI, NLP and LLMs for 10 years.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -33,7 +32,6 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Sinan Tang
-  email: tangsinan92@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/sinantang # change to your GitHub homepage
@@ -42,13 +40,13 @@ social:
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
-webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
-  baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+# webmaster_verifications:
+#   google: # fill in your Google verification code
+#   bing: # fill in your Bing verification code
+#   alexa: # fill in your Alexa verification code
+#   yandex: # fill in your Yandex verification code
+#   baidu: # fill in your Baidu verification code
+#   facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -95,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

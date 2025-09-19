@@ -6,11 +6,11 @@ order: 4
 
 Hey 👋
 
-Thanks for checking out my personal blogging space!
+I'm Sinan --
 
-I'm Sinan -- NLP engineer by day, content creator by night.
+I work a lot with AI, NLP and LLMs.
 
-I write on books, thinking tools, productivity, career development and technology.
+I like to read non-fictions and write about tech, business and books.
 
 ![freiburg](/assets/images/freiburg.JPG){: .normal}
 
