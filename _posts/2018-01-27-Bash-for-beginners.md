@@ -421,7 +421,7 @@ $ vimtutor
 
 这是个完整的 vim 教程，带详细说明和练习，有空可以慢慢敲完。
 
-如果你更习惯更加直观的练习教程，可以试试这个网站（http://www.openvim.com）。
+如果你更习惯更加直观的练习教程，可以试试这个网站（https://www.openvim.com）。
 
 我是那种走一遍教程也记不全的人，所以喜欢下载、手写一些 cheatsheets 帮助记忆。你也可以试试。
 
@@ -449,7 +449,7 @@ Win10 安装 Linux 双系统，官网指引：
 
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-友好的 vim 教程：http://www.openvim.com
+友好的 vim 教程：https://www.openvim.com
 
 万能的 Bash (shell) 指令查询网站：https://explainshell.com
 

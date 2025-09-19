@@ -60,7 +60,7 @@ To subscribe: [here](https://new.linguistlist.org/subscribe/)
 
 #### Paul Graham's Blog
 
-I suspect Paul Graham's personal site might be one of the most primitive-looking yet most popular blog sites you could see around the Internet nowadays. I genuinely enjoy his witty and original essays, but he is certainly too busy to set up a newsletter for his own blog (apparently there is no need to remind his readers either). But someone else has created a [RSS feed](http://www.paulgraham.com/rss.html) of Paul Graham's essays page.
+I suspect Paul Graham's personal site might be one of the most primitive-looking yet most popular blog sites you could see around the Internet nowadays. I genuinely enjoy his witty and original essays, but he is certainly too busy to set up a newsletter for his own blog (apparently there is no need to remind his readers either). But someone else has created a [RSS feed](https://www.paulgraham.com/rss.html) of Paul Graham's essays page.
 
 
 

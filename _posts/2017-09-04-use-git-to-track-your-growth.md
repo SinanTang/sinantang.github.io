@@ -190,7 +190,7 @@ git status                   # 再次查看 git 状态，当所有改动都已�
 
 {:.image-caption}
 
-*ref：http://rogerdudler.github.io/git-guide/index.zh.html*
+*ref：https://rogerdudler.github.io/git-guide/index.zh.html*
 
 
 
@@ -204,7 +204,7 @@ git status                   # 再次查看 git 状态，当所有改动都已�
 
 - 拓展阅读：Pro Git book by Scott Chacon and Ben Straub (https://git-scm.com/book/en/v2) (推荐阅读英文书，不过页面也有中译本可选)
 - 从 GitHub 体验官升级为真正用户：去 GitHub 主页，点击上方 Explore，在 Trending 里翻翻最近的流行项目与牛人。
-- 有个 [GitHub 项目](http://resume.github.io/)专门帮工程师一键生成 GitHub 个人简历，你也可以去玩玩 (http://resume.github.io/)。虽然现在还没有东西可以展示，但将来总会有的嘛！
+- 有个 [GitHub 项目](https://resume.github.io/)专门帮工程师一键生成 GitHub 个人简历，你也可以去玩玩 (https://resume.github.io/)。虽然现在还没有东西可以展示，但将来总会有的嘛！
 
 
 

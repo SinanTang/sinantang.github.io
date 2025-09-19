@@ -8,7 +8,7 @@ tags:
 - python
 ---
 
-I started a new online lecture **[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)** taught by **[Peter Norvig](http://norvig.com/)** on Udacity. The quality of this lecture series is exceptional - once again proving the importance of a great teacher! Highly recommend this course for people who are familar with Python and some basic knowledge in computer science. It's freely available on Udacity.
+I started a new online lecture **[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)** taught by **[Peter Norvig](https://norvig.com/)** on Udacity. The quality of this lecture series is exceptional - once again proving the importance of a great teacher! Highly recommend this course for people who are familar with Python and some basic knowledge in computer science. It's freely available on Udacity.
 
 I will be updating my notes for these lectures. 
 
