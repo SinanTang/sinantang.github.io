@@ -3,12 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
+- type: x-twitter
   icon: "fa-brands fa-x-twitter"
+  url: 'https://x.com/buildandsell_'
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
 
 # - type: rss
 #   icon: "fas fa-rss"
@@ -19,9 +17,9 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/sinantang/'                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
