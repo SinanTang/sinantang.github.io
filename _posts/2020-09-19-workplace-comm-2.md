@@ -1,6 +1,6 @@
 ---
 title: 工作三年教给我的职场沟通技巧（二）
-date: 19-09-2020
+date: 2020-09-19
 categories:
 - Career as an NLP Engineer
 tags:

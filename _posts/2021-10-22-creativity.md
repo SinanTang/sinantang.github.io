@@ -1,6 +1,6 @@
 ---
 title: 读书笔记专题合集：关于创造力
-date: 22-10-2021
+date: 2021-10-22
 categories: 
 - Reading Notes
 tags: 
@@ -64,7 +64,7 @@ tags:
 >
 > 这个发现带来一种奇异的体验：一句谚语，在人类历史上已经存在了至少数千年，中间有无数人传播，还不乏名人文人。到了21世纪，用在一个英剧里，竟还给观众们一种原创感很强，并不老套乏味的感觉。
 
-![fleabag](../../../../../assets/images/fleabag.jpg){:style="margin:0 auto"}
+![fleabag](/assets/images/fleabag.jpg){:style="margin:0 auto"}
 
 知道这一点后对我们有什么用呢？
 
@@ -98,7 +98,7 @@ tags:
 
 你可以把Austin Kleon的这三本书当作一个灵感供应台。这三本书不厚，设计感强，文字不多，充斥着插图和引用，放在书桌上，工作中感到疲劳或卡住时就可以随手拿起一本来翻一翻，可以达到高效休息的目的。
 
-![kleon-books](../../../../../assets/images/kleon-books.jpg){:style="margin:0 auto"}
+![kleon-books](/assets/images/kleon-books.jpg){:style="margin:0 auto"}
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: 我是如何自学编程的
-date: 02-09-2018
+date: 2018-09-02
 categories: 
 - Self improvement
 - Career as an NLP Engineer

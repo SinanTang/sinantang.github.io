@@ -1,6 +1,6 @@
 ---
 title: 读《little black stretchy pants：the story of lululemon》
-date: 12-10-2020
+date: 2020-10-12
 categories:
 - Book Review
 tags:
@@ -10,7 +10,7 @@ tags:
 
 《Little black stretchy pants: the story of lululemon》一书是lululemon品牌创始人Chip Wilson的自传和创业故事。这本书做到了集商业、管理、创新、育儿和亲密关系观点于一体。五星推荐给所有喜欢阅读商业题材的读者！
 
-![lululemonBook](../../../../../assets/images/lululemon.jpg){:style="margin:0 auto"}
+![lululemonBook](/assets/images/lululemon.jpg){:style="margin:0 auto"}
 
 这本书前半部分写的是Chip年少时的成长经历，创建第一个公司Westbeach和第二个公司lululemon的故事，还有Chip对运动时尚潮流和与女性主义崛起的预测与解读，可读性非常强，内容特别有意思。Chip拥有预测5-10年后社会新潮流的天才直觉，成功预测了滑雪、瑜伽、女性崛起、正念等潮流。这一点真是令人赞叹。比如Chip于1998年就看到瑜伽会在未来风靡的趋势，十多年前就意识到冥想正念将会是下一个潮流（做个对比：我自己是18年才注意到冥想已经成为潮流，并想到冥想产业肯定会带来巨大商业价值）。
 

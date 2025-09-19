@@ -1,6 +1,6 @@
 ---
 title: 写给19岁的自己的9条忠告
-date: 13-09-2021
+date: 2021-09-13
 categories: 
 - Thinking Tools
 tags: 

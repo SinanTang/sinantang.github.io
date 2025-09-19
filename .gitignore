@@ -2,7 +2,7 @@ _site/*
 _theme_packages/*
 
 Thumbs.db
-.DS_Store
+**/.DS_Store
 
 !.gitkeep
 
@@ -12,3 +12,5 @@ Thumbs.db
 *.lock
 
 cheatsheet.txt
+
+CLAUDE.md

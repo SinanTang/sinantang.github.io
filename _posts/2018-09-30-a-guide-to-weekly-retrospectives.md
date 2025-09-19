@@ -1,6 +1,6 @@
 ---
 title: 做好自我审视，让你离自己的人生目标更近
-date: 30-09-2018
+date: 2018-09-30
 categories: 
 - Self improvement
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 如何成为全能的学习高手？
-date: 04-11-2017
+date: 2017-11-04
 categories:
 - Book Review
 - How to learn better

@@ -1,6 +1,6 @@
 ---
 title: 读《弃业医生日志》：医生的困局
-date: 17-01-2021
+date: 2021-01-17
 categories: 
 - Book Review
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Newsletters that I subscribe to and actually read
-date: 21-06-2020
+date: 2020-06-21
 categories:
 - Others
 - Reading Notes

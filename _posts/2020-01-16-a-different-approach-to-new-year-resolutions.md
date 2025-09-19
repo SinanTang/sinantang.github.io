@@ -1,6 +1,6 @@
 ---
 title: A Different Approach to New Year Resolutions 一份不一样的新年计划指南
-date: 16-01-2020
+date: 2020-01-16
 categories: 
 - Self improvement
 tags: 
@@ -69,7 +69,7 @@ tags:
 
 ## 我如何计划 2020
 
-![calendar-planner](../../../../../assets/images/calendar-planner.jpg){:style="margin:0 auto"}
+![calendar-planner](/assets/images/calendar-planner.jpg){:style="margin:0 auto"}
 
 {:.image-caption}
 
@@ -83,7 +83,7 @@ tags:
 
 
 
-![goal-setting](../../../../../assets/images/set-goal-g-cal.gif){:style="margin:0 auto"}
+![goal-setting](/assets/images/set-goal-g-cal.gif){:style="margin:0 auto"}
 
 {:.image-caption}
 

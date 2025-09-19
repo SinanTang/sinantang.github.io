@@ -1,0 +1,96 @@
+name: "PR Preview"
+
+on:
+  pull_request:
+    branches: [master, main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  pull-requests: write
+
+jobs:
+  build-preview:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.head.repo.full_name == github.repository
+
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+
+      - name: Build preview site
+        run: |
+          # Build with proper baseurl for GitHub Pages subdirectory
+          bundle exec jekyll build --baseurl "/sinantang.github.io/pr-${{ github.event.number }}" -d "_site"
+        env:
+          JEKYLL_ENV: "staging"
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          destination_dir: pr-${{ github.event.number }}
+          keep_files: false
+          force_orphan: true
+
+      - name: Comment PR with preview URL
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const previewUrl = `https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-${prNumber}/`;
+
+            // Also provide alternative access methods
+            const rawGitHackUrl = `https://raw.githack.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/gh-pages/pr-${prNumber}/index.html`;
+            const directGitHubUrl = `https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/tree/gh-pages/pr-${prNumber}`;
+
+            // Find existing comment
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber
+            });
+
+            const botComment = comments.data.find(comment =>
+              comment.user.type === 'Bot' && comment.body.includes('🚀 **Preview deployment')
+            );
+
+            const body = `🚀 **Preview deployment ready!**
+
+            📱 **GitHub Pages**: ${previewUrl} *(may redirect to live site)*
+            🔗 **RawGitHack**: ${rawGitHackUrl} *(direct file access)*
+            📁 **GitHub Files**: ${directGitHubUrl} *(browse files)*
+
+            ✅ Built from commit: \`${context.payload.pull_request.head.sha.slice(0, 7)}\`
+            🔄 Updates automatically on new commits
+
+            💡 **Try RawGitHack link if GitHub Pages redirects to live site**`;
+
+            if (botComment) {
+              // Update existing comment
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body
+              });
+            } else {
+              // Create new comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: prNumber,
+                body: body
+              });
+            }

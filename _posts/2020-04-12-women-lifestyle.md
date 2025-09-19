@@ -1,6 +1,6 @@
 ---
 title: 女性可以自由选择生活方式吗？
-date: 12-04-2020
+date: 2020-04-12
 categories: 
 - Self improvement
 - Others

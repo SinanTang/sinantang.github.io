@@ -1,6 +1,6 @@
 ---
 title: 聊聊工程师职场中的细节
-date: 24-09-2018
+date: 2018-09-24
 categories: 
 - Self improvement
 - Career as an NLP Engineer

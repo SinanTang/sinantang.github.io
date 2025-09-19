@@ -1,6 +1,6 @@
 ---
 title: 连续冥想28天 | 觉知，接纳，不拖延
-date: 10-03-2019
+date: 2019-03-10
 categories: 
 - Self improvement
 tags: 

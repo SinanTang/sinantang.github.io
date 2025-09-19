@@ -1,6 +1,6 @@
 ---
 title: 读书笔记《A Thousand Brains》by Jeff Hawkins
-date: 05-08-2021
+date: 2021-08-05
 categories: 
 - Reading Notes
 tags: 

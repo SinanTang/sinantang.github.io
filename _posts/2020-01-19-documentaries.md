@@ -1,6 +1,6 @@
 ---
 title: 5 Best Documentaries of 2019
-date: 19-01-2020
+date: 2020-01-19
 categories: 
 - Film Review
 tags: 
@@ -24,7 +24,7 @@ tags:
 
 虽然说在片中比尔盖茨推进一些社会性变革性的项目时，也展现了一点点“科技是否能解决一切问题”的争议性，但整个系列还是太像比尔盖茨个人自传加社会项目宣传片。看完这个纪录片后，我反而对比尔盖茨的母亲玛丽·马克斯韦尔·盖茨产生更大兴趣，我更想读读她的生平传记（搜过并没有），也许是性别滤镜，但我总是觉得像玛丽·盖茨这样兼具女性优雅、母亲温柔与事业野心的女性更具魅力。
 
-![Mary Maxwell Gates](../../../../../assets/images/mary-gates.jpg){:style="margin:0 auto"}
+![Mary Maxwell Gates](/assets/images/mary-gates.jpg){:style="margin:0 auto"}
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 > 想象你的头脑最初是覆盖着新雪的山坡，一个想法是从山顶滑到山底的雪橇在雪上留下的印记。一开始雪橇没有特定的滑行轨道，但渐渐地由于重合，有一条痕迹会越来越深、越来越难以逃脱。一段时间后，所有从山顶滑下的雪橇都会汇合到这条辙道最深最宽的滑道上——这条滑道就是你的思维定势（or thought patterns）。当思维定势形成后，你不仅很难看到其他思维方式，就算发现了也真的身不由己，无法逃脱现在所在的既定滑道。
 
-![mind](../../../../../assets/images/mind.jpg){:style="margin:0 auto"}
+![mind](/assets/images/mind.jpg){:style="margin:0 auto"}
 
 这个类比和这一集让我的冥想水平一下子跳上一个大台阶。
 

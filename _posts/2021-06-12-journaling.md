@@ -1,6 +1,6 @@
 ---
 title: The Power of Daily Journaling
-date:  12-06-2021
+date: 2021-06-12
 categories: 
 - Self improvement
 tags: 
@@ -67,7 +67,7 @@ tags:
 
 Future self journaling 是根据下面这组问题来自由写下自己的答案。
 
-![journaling](../../../../../assets/images/futureselfjournaling.jpg){:style="margin:0 auto"}
+![journaling](/assets/images/futureselfjournaling.jpg){:style="margin:0 auto"}
 
 1. My daily affirmation -- 我的每日信念。我常写，"Everthing that's happening now is happening for my ultimate good."，"My feelings deserve to be expressed. I allow them to flow." 其实也算是鸡汤，但重复次数多了，逐渐让它们取代自己小时候被父母或外界灌输的负面思维方式或信念，不也是件很好的事吗。
 2. Today I want to focus on -- 今天我想做的最重要的事。
