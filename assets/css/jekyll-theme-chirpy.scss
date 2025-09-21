@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "main";
+@use "main";
 
 /* Hide the pageviews span specifically */
 .d-flex.justify-content-between div span:has(#pageviews) {
