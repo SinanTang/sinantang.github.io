@@ -3,17 +3,25 @@
 
 @use "main";
 
-/* Hide the pageviews span specifically */
-.d-flex.justify-content-between div span:has(#pageviews) {
-  display: none !important;
-}
-
-/* Fallback for browsers that don't support :has() */
+/* Hide pageviews specifically */
 #pageviews {
   display: none !important;
 }
 
-/* Hide "views" text by targeting the span containing pageviews */
-.d-flex.justify-content-between div span:first-child {
+/* Hide the pageviews container and icon */
+.pageviews,
+.pageviews-placeholder {
+  display: none !important;
+}
+
+/* Hide the specific pageview span by targeting its unique structure */
+.post-meta em:has(#pageviews),
+.post-meta span:has(#pageviews) {
+  display: none !important;
+}
+
+/* For browsers without :has() support, hide pageview parents differently */
+em#pageviews,
+span#pageviews {
   display: none !important;
 }
