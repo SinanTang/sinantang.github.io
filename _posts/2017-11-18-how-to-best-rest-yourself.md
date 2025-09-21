@@ -64,7 +64,7 @@ tags:
 
 那，到底该怎么休息呢？
 
-启发我下面解决方案的还是我之前写过的**全能学习高手** [**Scott Young**](https://sinantang.github.io/reading%20notes/how%20to%20learn%20better/2017/11/04/renaissance-man-learning/)。
+启发我下面解决方案的还是我之前写过的**全能学习高手** [**Scott Young**](https://sinantang.github.io/posts/renaissance-man-learning/)。
 
 既然频繁切换任务对大脑来说是种无形却可观的能量消耗，那就尽量**不要将工作任务与娱乐项目 ABAB 地拼插起来**呗。
 

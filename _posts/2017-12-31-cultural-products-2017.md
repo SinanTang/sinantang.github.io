@@ -28,7 +28,7 @@ tags:
 
 #### 虚构类：
 
-​    [《**巨人的陨落**》](https://sinantang.github.io/book%20review/2017/12/16/reading-fall-of-giants/)★★★★☆
+​    [《**巨人的陨落**》](https://sinantang.github.io/posts/reading-fall-of-giants/)★★★★☆
 
 “旁观历史是让人抽离现实小纠结小得失的最好方式”
 
@@ -74,7 +74,7 @@ tags:
 
 .
 
-   [《**黑客与画家**》](https://sinantang.github.io/book%20review/2017/09/29/the-social-science-of-spoiling/)by Paul Graham ★★★★☆
+   [《**黑客与画家**》](https://sinantang.github.io/posts/the-social-science-of-spoiling/)by Paul Graham ★★★★☆
 
 “不看这本书，很可能听不懂程序员社区与硅谷创业公司的暗语”
 
@@ -126,7 +126,7 @@ tags:
 
 .
 
-​    [《**Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets**》](https://sinantang.github.io/data%20science/book%20review/2017/10/21/lie-with-stats/)★★★★★
+​    [《**Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets**》](https://sinantang.github.io/posts/lie-with-stats/)★★★★★
 
 “世间人分两大类，一类懂概率统计，一类不懂”
 
@@ -158,7 +158,7 @@ tags:
 
 ### 累计播放时长最久的播客：
 
-[⁍](https://sinantang.github.io/reading%20notes/2017/12/05/Tim-Ferriss-on-questions/)**「The Tim Ferriss Show」**tim.blog/podcast
+[⁍](https://sinantang.github.io/posts/Tim-Ferriss-on-questions/)**「The Tim Ferriss Show」**tim.blog/podcast
 
 ⁍「**得意忘形**」
 
