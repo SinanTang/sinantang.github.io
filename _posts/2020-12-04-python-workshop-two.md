@@ -16,7 +16,7 @@ Here are the slides from my「Learn Python with NLP Projects」workshop series, 
 
 Source code used in the workshop [here](https://github.com/SinanTang/simple-sentiment-analyser.lambda).
 
-Find slides for Part 1 [here](https://sinantang.github.io/natural%20language%20processing/2020/11/27/python-workshop-one/).
+Find slides for Part 1 [here](https://sinantang.github.io/posts/python-workshop-one/).
 
 ![slide1](/assets/images/workshop2/Slide1.jpg){:style="margin:0 auto"}
 

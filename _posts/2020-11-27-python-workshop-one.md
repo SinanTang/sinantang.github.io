@@ -16,7 +16,7 @@ Here are the slides from my「Learn Python with NLP Projects」workshop series, 
 
 Source code used in the workshop [here](https://github.com/SinanTang/spelling-checker.py).
 
-Find slides for Part 2 [here](https://sinantang.github.io/natural%20language%20processing/2020/12/04/python-workshop-two/).
+Find slides for Part 2 [here](https://sinantang.github.io/posts/python-workshop-two/).
 
 ![slide1](/assets/images/workshop1/Slide1.jpg){:style="margin:0 auto"}
 

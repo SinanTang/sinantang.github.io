@@ -145,7 +145,7 @@ Cory 的版本并没有 Wikipedia 的那么正统准确，但却直观友好很�
 
 所以说，大多专家学者讲话，自以为很清楚了但普通人还是很难听懂，也是出于这个原因——他们已经很难想象不懂那个领域的基础术语和概念是种什么体验了。
 
-这也是我在学艺仍不精时选择写 [Python 系列教程](https://sinantang.github.io/a%20developer%20guide%20for%20newbies%20-%20starting%20with%20python/2017/08/31/a-developer-guide-for-newbies/)的初心之一。我不想忘记自己初学时的挣扎和疑惑，尽量减少产生“这很简单啊你怎么学不会是不是太笨了”这类事后孔明的想法。
+这也是我在学艺仍不精时选择写 [Python 系列教程](https://sinantang.github.io/posts/a-developer-guide-for-newbies/)的初心之一。我不想忘记自己初学时的挣扎和疑惑，尽量减少产生“这很简单啊你怎么学不会是不是太笨了”这类事后孔明的想法。
 
 .
 

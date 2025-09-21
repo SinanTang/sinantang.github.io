@@ -47,7 +47,7 @@ tags:
 
 #### 新建一个 GitHub 项目
 
-首先你要有个 GitHub 帐号，同时最好已经熟悉了[《用 Git 记录成长轨迹》](https://sinantang.github.io/a%20developer%20guide%20for%20newbies%20-%20starting%20with%20python/2017/09/04/use-git-to-track-your-growth/)这一节中的常见 Git 操作。
+首先你要有个 GitHub 帐号，同时最好已经熟悉了[《用 Git 记录成长轨迹》](https://sinantang.github.io/posts/use-git-to-track-your-growth/)这一节中的常见 Git 操作。
 
 然后新建一个 GitHub repository（具体操作见第2节），将新 repo 命名为 `USER-NAME.github.io`。注意，这个名称的格式是固定的，有一点儿不同就没法用 GitHub 服务器来帮忙发布。`USER-NAME` 是你的用户名，即点击 GitHub 页面右上角个人头像时出现的名字（`Signed in as USER-NAME`）。
 

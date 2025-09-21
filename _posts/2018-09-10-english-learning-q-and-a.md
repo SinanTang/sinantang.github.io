@@ -11,13 +11,13 @@ tags:
 
 关于英语（语言）学习，我其实已经写过好几篇文章，比如：
 
-  [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/self improvement/2017/04/19/english-reading-compresion-techniques/)
+  [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/posts/english-reading-compresion-techniques/)
 
-  [《那个会说十几门外语的美国小哥来了》](https://sinantang.github.io/self improvement/2017/05/17/interviewing-a-polyglot/)
+  [《那个会说十几门外语的美国小哥来了》](https://sinantang.github.io/posts/interviewing-a-polyglot/)
 
-  [《六年后重考高考英语给我的收获》](https://sinantang.github.io/self improvement/2017/06/17/retaking-gaokao-english-after-6-years/)
+  [《六年后重考高考英语给我的收获》](https://sinantang.github.io/posts/retaking-gaokao-english-after-6-years/)
 
-  [《隐喻的世界：浅谈语言对思维的反向塑造》](https://sinantang.github.io/linguistics/2017/02/26/metaphor-and-how-language-reshapes-our-mind/)
+  [《隐喻的世界：浅谈语言对思维的反向塑造》](https://sinantang.github.io/posts/metaphor-and-how-language-reshapes-our-mind/)
 
 甚至为了响应小伙伴们要提高英语阅读水平的需求，我还办过两期「我的第一本英文原版书」读书社（现已完结，暂无新开计划）。
 
@@ -59,7 +59,7 @@ tags:
 
 
 
-关于“如何提问”，我已经写过几篇文章，比如[《Tim Ferriss 教你如何提问》](https://sinantang.github.io/reading notes/2017/12/05/Tim-Ferriss-on-questions/)，[《万能思维框架 WHAT HOW WHY》](https://sinantang.github.io/reading%20notes/self%20improvement/how%20to%20learn%20better/2017/08/14/thinking-framework-of-what-how-why/) 供读者参考。
+关于"如何提问"，我已经写过几篇文章，比如[《Tim Ferriss 教你如何提问》](https://sinantang.github.io/posts/Tim-Ferriss-on-questions/)，[《万能思维框架 WHAT HOW WHY》](https://sinantang.github.io/posts/thinking-framework-of-what-how-why/) 供读者参考。
 
 
 
@@ -111,7 +111,7 @@ tags:
 
 #### 如何提高英语阅读
 
-见 [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/self improvement/2017/04/19/english-reading-compresion-techniques/)
+见 [《高级英语阅读方法：理解中英文语法形态的大不同》](https://sinantang.github.io/posts/english-reading-compresion-techniques/)
 
 
 

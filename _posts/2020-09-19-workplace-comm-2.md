@@ -8,7 +8,7 @@ tags:
 - communication
 ---
 
-上一篇在[这里](https://sinantang.github.io/career%20as%20an%20nlp%20engineer/2020/09/11/communication-at-workplace-1/)。
+上一篇在[这里](https://sinantang.github.io/posts/communication-at-workplace-1/)。
 
 今天继续写职场沟通技巧的第二篇。
 
