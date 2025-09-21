@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://sinantang.github.io/sinantang.github.io/pr-7/sitemap.xml
