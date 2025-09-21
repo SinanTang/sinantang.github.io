@@ -1,0 +1,27 @@
+---
+---
+
+@use "main";
+
+/* Hide pageviews specifically */
+#pageviews {
+  display: none !important;
+}
+
+/* Hide the pageviews container and icon */
+.pageviews,
+.pageviews-placeholder {
+  display: none !important;
+}
+
+/* Hide the specific pageview span by targeting its unique structure */
+.post-meta em:has(#pageviews),
+.post-meta span:has(#pageviews) {
+  display: none !important;
+}
+
+/* For browsers without :has() support, hide pageview parents differently */
+em#pageviews,
+span#pageviews {
+  display: none !important;
+}
