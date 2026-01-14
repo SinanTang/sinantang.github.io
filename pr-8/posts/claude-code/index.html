@@ -1,0 +1,217 @@
+<!doctype html><html lang="en" ><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7"><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover" ><meta name="generator" content="Jekyll v4.4.1" /><meta property="og:title" content="How I use Claude Code - Tips for AI-Native Development" /><meta property="og:locale" content="en" /><meta name="description" content="Working with AI, NLP and LLMs for 10 years." /><meta property="og:description" content="Working with AI, NLP and LLMs for 10 years." /><link rel="canonical" href="https://sinantang.github.io/sinantang.github.io/pr-8/posts/claude-code/" /><meta property="og:url" content="https://sinantang.github.io/sinantang.github.io/pr-8/posts/claude-code/" /><meta property="og:site_name" content="SinansNotes" /><meta property="og:type" content="article" /><meta property="article:published_time" content="2025-09-19T00:00:00+02:00" /><meta name="twitter:card" content="summary" /><meta property="twitter:title" content="How I use Claude Code - Tips for AI-Native Development" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-09-19T00:00:00+02:00","datePublished":"2025-09-19T00:00:00+02:00","description":"Working with AI, NLP and LLMs for 10 years.","headline":"How I use Claude Code - Tips for AI-Native Development","mainEntityOfPage":{"@type":"WebPage","@id":"https://sinantang.github.io/sinantang.github.io/pr-8/posts/claude-code/"},"url":"https://sinantang.github.io/sinantang.github.io/pr-8/posts/claude-code/"}</script><title>How I use Claude Code - Tips for AI-Native Development | SinansNotes</title><link rel="icon" type="image/png" href="/sinantang.github.io/pr-8/assets/img/favicons/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/svg+xml" href="/sinantang.github.io/pr-8/assets/img/favicons/favicon.svg"><link rel="shortcut icon" href="/sinantang.github.io/pr-8/assets/img/favicons/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="/sinantang.github.io/pr-8/assets/img/favicons/apple-touch-icon.png"><link rel="manifest" href="/sinantang.github.io/pr-8/assets/img/favicons/site.webmanifest"><link rel="preconnect" href="https://fonts.googleapis.com" ><link rel="dns-prefetch" href="https://fonts.googleapis.com" ><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="dns-prefetch" href="https://fonts.gstatic.com" ><link rel="preconnect" href="https://cdn.jsdelivr.net" ><link rel="dns-prefetch" href="https://cdn.jsdelivr.net" ><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"><link rel="stylesheet" href="/sinantang.github.io/pr-8/assets/css/jekyll-theme-chirpy.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.1.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.36.4/dist/tocbot.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css"> <script src="/sinantang.github.io/pr-8/assets/js/dist/theme.min.js"></script> <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/glightbox@3.3.0/dist/js/glightbox.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.18/dayjs.min.js,npm/dayjs@1.11.18/locale/en.js,npm/dayjs@1.11.18/plugin/relativeTime.js,npm/dayjs@1.11.18/plugin/localizedFormat.js,npm/tocbot@4.36.4/dist/tocbot.min.js"></script> <script defer src="/sinantang.github.io/pr-8/assets/js/dist/post.min.js"></script> <script> document.addEventListener('DOMContentLoaded', () => { const pv = document.getElementById('pageviews'); if (pv !== null) { const uri = location.pathname.replace(/\/$/, ''); const url = `https://sinansnotes.goatcounter.com/counter/${encodeURIComponent(uri)}.json`; fetch(url) .then((response) => response.json()) .then((data) => { const count = data.count.replace(/\D/g, ''); pv.innerText = new Intl.NumberFormat().format(count); }) .catch((error) => { pv.innerText = '1'; }); } }); </script><body><aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end"><header class="profile-wrapper"> <a href="/sinantang.github.io/pr-8/" id="avatar" class="rounded-circle"><img src="/sinantang.github.io/pr-8/assets/images/avatar.png" width="112" height="112" alt="avatar" onerror="this.style.display='none'"></a> <a class="site-title d-block" href="/sinantang.github.io/pr-8/">SinansNotes</a><p class="site-subtitle fst-italic mb-0">making a dent in the universe</p></header><nav class="flex-column flex-grow-1 w-100 ps-0"><ul class="nav"><li class="nav-item"> <a href="/sinantang.github.io/pr-8/" class="nav-link"> <i class="fa-fw fas fa-home"></i> <span>HOME</span> </a><li class="nav-item"> <a href="/sinantang.github.io/pr-8/categories/" class="nav-link"> <i class="fa-fw fas fa-stream"></i> <span>CATEGORIES</span> </a><li class="nav-item"> <a href="/sinantang.github.io/pr-8/tags/" class="nav-link"> <i class="fa-fw fas fa-tags"></i> <span>TAGS</span> </a><li class="nav-item"> <a href="/sinantang.github.io/pr-8/archives/" class="nav-link"> <i class="fa-fw fas fa-archive"></i> <span>ARCHIVES</span> </a><li class="nav-item"> <a href="/sinantang.github.io/pr-8/about/" class="nav-link"> <i class="fa-fw fas fa-info-circle"></i> <span>ABOUT</span> </a></ul></nav><div class="sidebar-bottom d-flex flex-wrap align-items-center w-100"> <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle"> <i class="fas fa-adjust"></i> </button> <span class="icon-border"></span> <a href="https://github.com/sinantang" aria-label="github" target="_blank" rel="noopener noreferrer" > <i class="fab fa-github"></i> </a> <a href="https://x.com/buildandsell_" aria-label="x-twitter" target="_blank" rel="noopener noreferrer" > <i class="fa-brands fa-x-twitter"></i> </a> <a href="https://www.linkedin.com/in/sinantang/" aria-label="linkedin" target="_blank" rel="noopener noreferrer" > <i class="fab fa-linkedin"></i> </a></div></aside><div id="main-wrapper" class="d-flex justify-content-center"><div class="container d-flex flex-column px-xxl-5"><header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar"><div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100" ><nav id="breadcrumb" aria-label="Breadcrumb"> <span> <a href="/sinantang.github.io/pr-8/">Home</a> </span> <span>How I use Claude Code - Tips for AI-Native Development</span></nav><button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar"> <i class="fas fa-bars fa-fw"></i> </button><div id="topbar-title"> Post</div><button type="button" id="search-trigger" class="btn btn-link" aria-label="Search"> <i class="fas fa-search fa-fw"></i> </button> <search id="search" class="align-items-center ms-3 ms-lg-0"> <i class="fas fa-search fa-fw"></i> <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="Search..." > </search> <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">Cancel</button></div></header><div class="row flex-grow-1"><main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4"><article class="px-1" data-toc="true"><header><h1 data-toc-skip>How I use Claude Code - Tips for AI-Native Development</h1><div class="post-meta text-muted"> <span> Posted <time data-ts="1758232800" data-df="ll" data-bs-toggle="tooltip" data-bs-placement="bottom" > Sep 19, 2025 </time> </span><div class="d-flex justify-content-between"> <span> By <em> <a href="https://github.com/sinantang">Sinan Tang</a> </em> </span><div> <span> <em id="pageviews"> <i class="fas fa-spinner fa-spin small"></i> </em> views </span> <span class="readtime" data-bs-toggle="tooltip" data-bs-placement="bottom" title="1638 words" > <em>9 min</em> read</span></div></div></div></header><div id="toc-bar" class="d-flex align-items-center justify-content-between invisible"> <span class="label text-truncate">How I use Claude Code - Tips for AI-Native Development</span> <button type="button" class="toc-trigger btn me-1"> <i class="fa-solid fa-list-ul fa-fw"></i> </button></div><button id="toc-solo-trigger" type="button" class="toc-trigger btn btn-outline-secondary btn-sm"> <span class="label ps-2 pe-1">Contents</span> <i class="fa-solid fa-angle-right fa-fw"></i> </button> <dialog id="toc-popup" class="p-0"><div class="header d-flex flex-row align-items-center justify-content-between"><div class="label text-truncate py-2 ms-4">How I use Claude Code - Tips for AI-Native Development</div><button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75"> <i class="fas fa-close"></i> </button></div><div id="toc-popup-content" class="px-4 py-3 pb-4"></div></dialog><div class="content"><p><a href="/sinantang.github.io/pr-8/assets/images/cc-presentation-slides.png" class="popup img-link shimmer"><img src="/sinantang.github.io/pr-8/assets/images/cc-presentation-slides.png" alt="Claude Code Presentation" style="margin:0 auto" loading="lazy"></a></p><p>In the age of AI, I often find myself reflecting on this Chinese proverb: “工欲善其事，必先利其器” (If a technician wants to do good work, she must first sharpen her tools). What strikes me is how profoundly true this has become—perhaps more than ever before in the history of software development. The tools we choose don’t just affect our productivity; they fundamentally shape how we think about problems, architect solutions, and collaborate with both humans and AI systems.</p><p>I’ve spent the past several months deep in the trenches with Claude Code, and what I’ve observed is striking: the productivity gap before and after isn’t just incremental—it’s 10x or even more. Developers who learn to truly collaborate with AI tools are operating in an entirely different paradigm, solving problems at a different level of abstraction while the AI handles implementation details that would have consumed hours or days of human effort.</p><p>This post documents the techniques and patterns I’ve battle-tested through extensive production and personal use of Claude Code.</p><h2 id="context-engineering-an-evolution-from-prompt-engineering"><span class="me-2">Context Engineering: An Evolution from Prompt Engineering</span><a href="#context-engineering-an-evolution-from-prompt-engineering" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>The AI development community has increasingly adopted the term “context engineering” to describe the practice of structuring information for Large Language Models (LLMs). This approach recognizes that LLMs, similar to human developers, perform better when provided with comprehensive context about the task at hand.</p><p><a href="/sinantang.github.io/pr-8/assets/images/context.png" class="popup img-link shimmer"><img src="/sinantang.github.io/pr-8/assets/images/context.png" alt="context_engineering" style="margin:0 auto" loading="lazy"></a></p><p>This shift from crafting individual prompts to building persistent, structured context has measurably improved the quality and consistency of generated code for me.</p><h2 id="configuration-architecture"><span class="me-2">Configuration Architecture</span><a href="#configuration-architecture" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><h3 id="user--project-level-claudemd-files"><span class="me-2">User + Project level CLAUDE.md files</span><a href="#user--project-level-claudemd-files" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Utilizing both global and project-level <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> files provides an effective method to drastically improve Claude’s instruction following capabilities and the code quality it can produce. The global CLAUDE.md acts like the “meta-prompt” establishing high level philosophy and principles, while project-level CLAUDE.md contains specific project knowledge and context.</p><p>Global user-level <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> example:</p><div class="language-markdown highlighter-rouge"><div class="code-header"> <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+</pre><td class="rouge-code"><pre><span class="gh"># Engineering Philosophy</span>
+<span class="gu">## Core Beliefs</span>
+<span class="p">
+-</span> <span class="gs">**Simplicity is the ultimate sophistication**</span>
+<span class="p">-</span> <span class="gs">**Incremental progress over big bangs**</span> - Small changes that compile and pass tests
+<span class="p">-</span> Avoid over-engineering - YAGNI (You Aren't Gonna Need It)
+<span class="p">-</span> <span class="gs">**Learning from existing code**</span> - Study and plan before implementing
+<span class="p">-</span> <span class="gs">**Clear intent over clever code**</span> - Be boring and obvious
+
+<span class="gu">### Simplicity Means</span>
+<span class="p">
+-</span> Single responsibility per function/class
+<span class="p">-</span> Avoid premature abstractions
+<span class="p">-</span> No clever tricks - choose the boring solution
+<span class="p">-</span> If you need to explain it, it's too complex
+
+<span class="gu">## Design Principles</span>
+<span class="p">
+-</span> <span class="gs">**Defensive programming**</span> - validate inputs, handle edge cases
+<span class="p">-</span> <span class="gs">**Fail-fast design**</span> - eliminate invalid cases early
+<span class="p">-</span> <span class="gs">**Separation of concerns**</span> - each module does one thing well
+<span class="p">-</span> <span class="gs">**Security by default**</span> - never trust user input
+</pre></table></code></div></div><p>Experiment and iterate to find the prompt that works best for your use case. Recently I tried out the popular “Linus Torvalds” prompt (<a href="https://gist.github.com/iiiyu/4c8286062c589f3f6d6093cb9fecbe42">one example</a>) which worked exceptionally well for me and has become a part of my Claude Code meta-prompt.</p><p>Project-level <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> focuses on codebase-specific patterns such as:</p><div class="language-markdown highlighter-rouge"><div class="code-header"> <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+</pre><td class="rouge-code"><pre><span class="gu">## Project Structure</span>
+repo/
+├── src/
+│   └── ...
+├── tests/                      # Unit test suite
+├── e2e_tests/                  # End-to-end integration tests
+├── docs/                       # Documentation
+│   ├── architecture/           # System design docs
+│   ├── development/            # Development guides
+│   ├── deployment/             # Deployment procedures
+│   └── updates/                # Project updates
+├── scripts/                    # SQL scripts and utilities
+├── deploy/                     # Deployment configurations
+├── pyproject.toml              # Project configuration
+└── mkdocs.yml                  # Documentation config
+
+<span class="gu">## Comments &amp; Documentation</span>
+<span class="p">
+-</span> Comments explain <span class="gs">**why**</span>, not what
+<span class="p">-</span> Keep comments close to code (inline &gt; separate docs)
+<span class="p">-</span> Update comments when code changes
+<span class="p">-</span> Document key decisions and trade-offs
+
+<span class="gu">## Python Imports and Path Guidelines</span>
+<span class="p">
+-</span> Use absolute imports throughout the codebase, e.g. <span class="sb">`from src.api import HTTPServerApp`</span>.
+<span class="p">-</span> Never use relative imports (<span class="sb">`.module`</span>) or sys.path manipulation
+<span class="p">-</span> Run all commands with UV: e.g. <span class="sb">`uv run python script.py`</span>
+</pre></table></code></div></div><h3 id="custom-commands-for-common-operations"><span class="me-2">Custom Commands for Common Operations</span><a href="#custom-commands-for-common-operations" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Custom slash commands reduce repetition and standardize common workflows. These commands, stored in <code class="language-plaintext highlighter-rouge">~/.claude/commands/</code>, become available across all sessions. I frequently use the <code class="language-plaintext highlighter-rouge">/test</code>, <code class="language-plaintext highlighter-rouge">/lint</code>, <code class="language-plaintext highlighter-rouge">/pr-describe</code> custom commands throughout my dev process. E.g.,</p><div class="language-bash highlighter-rouge"><div class="code-header"> <span data-label-text="Shell"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+</pre><td class="rouge-code"><pre><span class="c"># ~/.claude/commands/test.md</span>
+<span class="nt">---</span>
+description: fix unit tests
+model: claude-sonnet-4-20250514
+<span class="nt">---</span>
+
+Run all tests and fix failures incrementally:
+1. Execute the <span class="nb">test </span>suite
+2. Identify failing tests
+3. Fix issues sequentially, re-running after each fix
+4. Provide a summary of changes made
+</pre></table></code></div></div><h3 id="subagents-for-specialized-tasks"><span class="me-2">Subagents for Specialized Tasks</span><a href="#subagents-for-specialized-tasks" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Subagents enable parallel task execution within a shared context. This new-ish feature addresses the common pattern of running multiple Claude Code sessions for different tasks in the same project. You can easily define an agent using natural language in a Markdown file in <code class="language-plaintext highlighter-rouge">~/.claude/agents/</code>.</p><p>Check out the <a href="https://docs.claude.com/en/docs/claude-code/sub-agents#example-subagents">example subagents</a> “code-reviewer”, “unit-test-writer” and “debugger” templates from Anthropic. I also defined my own subagent to improve my prompt.</p><p>For example, after I have agreed on the implementation plan written by one Claude agent, I would often invoke the code-reviwer subagent in another Claude Code session (<code class="language-plaintext highlighter-rouge">Use the code-reviwer subagent to review the implementation plan in docs/...</code>).</p><h2 id="production-development-workflows"><span class="me-2">Production Development Workflows</span><a href="#production-development-workflows" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><h3 id="iterative-development-phases"><span class="me-2">Iterative Development Phases</span><a href="#iterative-development-phases" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Analysis of multiple projects has led to a five-phase workflow that balances automation with manual oversight:</p><ol><li><strong>Exploration</strong>: Opus model analyzes codebase structure and identifies integration points<li><strong>Planning</strong>: Utilize Opus for architectural decisions and design<li><strong>Implementation</strong>: Deploy Sonnet 4 for detailed coding tasks<li><strong>Testing</strong>: Engage specialized subagents for test coverage<li><strong>Commit</strong>: Review and document changes</ol><h3 id="the-plan-mode"><span class="me-2">The Plan mode</span><a href="#the-plan-mode" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Different Claude models demonstrate varying strengths. Opus performs well in strategic planning and architectural design but shows limitations in detailed implementation. Sonnet 4 excels at code generation, unit test creation, and concrete implementation tasks. This observation has informed a practical approach: using Opus for architectural decisions and Sonnet for implementation details. The introduction of Plan mode has made the switch between models even more intuitive.</p><h3 id="documentation-as-context-persistence"><span class="me-2">Documentation as Context Persistence</span><a href="#documentation-as-context-persistence" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Documentation serves a dual purpose: team knowledge sharing and context maintenance across Claude Code sessions. Complex features benefit from pre-implementation documentation:</p><div class="language-markdown highlighter-rouge"><div class="code-header"> <span data-label-text="Markdown"><i class="fas fa-code fa-fw small"></i></span> <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+</pre><td class="rouge-code"><pre><span class="gh"># docs/development/2025-08-08-authentication-refactoring-plan.md</span>
+
+<span class="gh"># [Feature Name] Implementation Plan</span>
+
+<span class="gu">## Overview</span>
+
+[Brief description of what you're building and why it's needed. 1-2 sentences maximum.]
+
+<span class="gu">## Motivation</span>
+
+[List the key drivers for this implementation. Use bullet points with bold labels:]
+<span class="p">
+-</span> <span class="gs">**Performance**</span>: [Performance improvements expected]
+<span class="p">-</span> <span class="gs">**Extensibility**</span>: [How this enables future features]
+<span class="p">-</span> <span class="gs">**Clean Architecture**</span>: [Architectural benefits]
+<span class="p">-</span> <span class="gs">**User Experience**</span>: [User-facing improvements]
+
+<span class="gu">## Architecture Design</span>
+
+...
+
+<span class="gu">## Implementation Checklist</span>
+
+<span class="gu">### Stage 1: Foundation</span>
+<span class="p">-</span> [ ] [Analysis task]
+<span class="p">-</span> [ ] [Design task]
+<span class="p">-</span> [ ] [Setup task]
+
+<span class="gu">### Stage 2: [Data Layer Name]</span>
+<span class="p">-</span> [ ] [Implementation task]
+<span class="p">-</span> [ ] [Testing task]
+<span class="p">-</span> [ ] [Validation task]
+
+<span class="gu">### Stage 3: [Business Logic Name]</span>
+<span class="p">-</span> [ ] [Implementation task]
+<span class="p">-</span> [ ] [Integration task]
+<span class="p">-</span> [ ] [Testing task]
+
+<span class="gu">### Stage 4: Documentation &amp; Testing</span>
+<span class="p">-</span> [ ] [Documentation task]
+<span class="p">-</span> [ ] [Performance verification task]
+<span class="gh">- [ ] [Final validation task]
+---
+</span>
+<span class="gs">**Status**</span>: [Planning|In Progress|Complete]
+<span class="gs">**Next**</span>: [Next immediate action]
+<span class="gs">**Estimated Completion**</span>: [Time estimate]
+</pre></table></code></div></div><p>This approach addresses context window limitations by allowing Claude to resume work with full understanding of prior decisions and progress.</p><h3 id="multi-clauding"><span class="me-2">Multi-Clauding</span><a href="#multi-clauding" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3><p>Operating multiple Claude Code sessions has proven effective for complex development tasks. A typical setup includes:</p><ul><li>Primary session for planning and core implementation<li>Secondary session for code review and test generation<li>Optional third session for documentation or exploratory work</ul><p>When combined with git worktrees, this configuration enables safe experimentation with alternative implementations without affecting the main development branch.</p><h2 id="feedback-mechanisms"><span class="me-2">Feedback Mechanisms</span><a href="#feedback-mechanisms" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>The quality of Claude’s output correlates with the feedback quality provided, as LLMs are trained by feedback mechanisms, like rewards or penalties, during the reinforment training process. Three feedback categories have proven particularly effective:</p><p><strong>Syntactic Feedback</strong>: Compilation errors and linting issues provide clear signals that Claude processes efficiently.</p><p><strong>Behavioral Feedback</strong>: Test results offer detailed information about functionality. Comprehensive test suites improve Claude’s ability to identify and correct issues.</p><p><strong>Visual Feedback</strong>: For frontend development, screenshots often communicate UI issues much more effectively than text descriptions. Claude’s image processing capabilities make this approach particularly useful.</p><h2 id="iterative-development-and-course-correction"><span class="me-2">Iterative Development and Course Correction</span><a href="#iterative-development-and-course-correction" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Experience suggests that early intervention and guidance produce better results than allowing Claude to proceed far into a suboptimal solution. Key practices:</p><ul><li>Allocating substantial time (often exceeding 50% of total task time for me) to initial requirement definition and context setup<li>Providing early guidance when implementation approaches appear suboptimal<li>Rolling back all changes and restarting when Claude is stuck rather than attempting incremental fixes<li>Treating Claude as a capable but guidance-requiring development partner</ul><h2 id="practical-observations"><span class="me-2">Practical Observations</span><a href="#practical-observations" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2><p>Extended work with Claude Code has revealed several patterns worth noting. The tool functions most effectively not as an autonomous system but as a collaborative partner requiring architectural guidance and strategic direction. Success depends less on the tool’s inherent capabilities and more on the user’s ability to structure context, provide clear requirements, and establish effective feedback loops.</p><p>The distinction between Claude Code and traditional development tools lies in its collaborative nature. Rather than simple code completion or generation, it offers a development partnership where human developers focus on architecture and strategy while Claude handles implementation details under guidance.</p><p>The evolution toward AI-assisted development represents a shift in how software is created, not merely in the tools used. Understanding how to effectively communicate intent, maintain context, and guide AI systems through complex implementation tasks has become a valuable addition to the developer’s skill set.</p></div><div class="post-tail-wrapper text-muted"><div class="post-meta mb-3"> <i class="far fa-folder-open fa-fw me-1"></i> <a href="/sinantang.github.io/pr-8/categories/ai-development/">AI Development</a></div><div class="post-tags"> <i class="fa fa-tags fa-fw me-1"></i> <a href="/sinantang.github.io/pr-8/tags/claude-code/" class="post-tag no-text-decoration" >Claude Code</a> <a href="/sinantang.github.io/pr-8/tags/ai/" class="post-tag no-text-decoration" >AI</a> <a href="/sinantang.github.io/pr-8/tags/development/" class="post-tag no-text-decoration" >Development</a> <a href="/sinantang.github.io/pr-8/tags/productivity/" class="post-tag no-text-decoration" >Productivity</a></div><div class=" post-tail-bottom d-flex justify-content-between align-items-center mt-5 pb-2 " ><div class="license-wrapper"> This post is licensed under <a href="https://creativecommons.org/licenses/by/4.0/"> CC BY 4.0 </a> by the author.</div><div class="share-wrapper d-flex align-items-center"> <span class="share-label text-muted">Share</span> <span class="share-icons"> <a href="https://twitter.com/intent/tweet?text=How%20I%20use%20Claude%20Code%20-%20Tips%20for%20AI-Native%20Development%20-%20SinansNotes&url=https%3A%2F%2Fsinantang.github.io%2Fsinantang.github.io%2Fpr-8%2Fposts%2Fclaude-code%2F" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Twitter" aria-label="Twitter"> <i class="fa-fw fa-brands fa-square-x-twitter"></i> </a> <a href="https://www.facebook.com/sharer/sharer.php?title=How%20I%20use%20Claude%20Code%20-%20Tips%20for%20AI-Native%20Development%20-%20SinansNotes&u=https%3A%2F%2Fsinantang.github.io%2Fsinantang.github.io%2Fpr-8%2Fposts%2Fclaude-code%2F" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Facebook" aria-label="Facebook"> <i class="fa-fw fab fa-facebook-square"></i> </a> <a href="https://t.me/share/url?url=https%3A%2F%2Fsinantang.github.io%2Fsinantang.github.io%2Fpr-8%2Fposts%2Fclaude-code%2F&text=How%20I%20use%20Claude%20Code%20-%20Tips%20for%20AI-Native%20Development%20-%20SinansNotes" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Telegram" aria-label="Telegram"> <i class="fa-fw fab fa-telegram"></i> </a> <a href="https://www.linkedin.com/feed/?shareActive=true&shareUrl=https%3A%2F%2Fsinantang.github.io%2Fsinantang.github.io%2Fpr-8%2Fposts%2Fclaude-code%2F" target="_blank" rel="noopener" data-bs-toggle="tooltip" data-bs-placement="top" title="Linkedin" aria-label="Linkedin"> <i class="fa-fw fab fa-linkedin"></i> </a> <button id="copy-link" aria-label="Copy link" class="btn small" data-bs-toggle="tooltip" data-bs-placement="top" title="Copy link" data-title-succeed="Link copied successfully!" > <i class="fa-fw fas fa-link pe-none fs-6"></i> </button> </span></div></div></div></article></main><aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted"><div class="access"><section id="access-lastmod"><h2 class="panel-heading">Recently Updated</h2><ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2"><li class="text-truncate lh-lg"> <a href="/sinantang.github.io/pr-8/posts/jobs/">Connecting the dots</a><li class="text-truncate lh-lg"> <a href="/sinantang.github.io/pr-8/posts/claude-code/">How I use Claude Code - Tips for AI-Native Development</a><li class="text-truncate lh-lg"> <a href="/sinantang.github.io/pr-8/posts/reading-year-2022/">My Reading Year, 2022</a><li class="text-truncate lh-lg"> <a href="/sinantang.github.io/pr-8/posts/books-of-the-year-2014-2022/">Books of the Year, 2014-2022</a><li class="text-truncate lh-lg"> <a href="/sinantang.github.io/pr-8/posts/dipti/">Interviewing Dipti Dhawan -- beating Monday blues with weekly planning, tips for aspiring managers, and the empowerment of motherhood</a></ul></section><section><h2 class="panel-heading">Trending Tags</h2><div class="d-flex flex-wrap mt-3 mb-1 me-3"> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/learning/">learning</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/career/">career</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/reading/">reading</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/books/">books</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/programming/">programming</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/philosophy/">philosophy</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/python/">python</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/developer/">developer</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/newbie/">newbie</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/nlp/">NLP</a></div></section></div><div class="toc-border-cover z-3"></div><section id="toc-wrapper" class="invisible position-sticky ps-0 pe-4 pb-4"><h2 class="panel-heading ps-3 pb-2 mb-0">Contents</h2><nav id="toc"></nav></section></aside></div><div class="row"><div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4"><nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation"> <a href="/sinantang.github.io/pr-8/posts/reading-year-2022/" class="btn btn-outline-primary" aria-label="Older" ><p>My Reading Year, 2022</p></a> <a href="/sinantang.github.io/pr-8/posts/jobs/" class="btn btn-outline-primary" aria-label="Newer" ><p>Connecting the dots</p></a></nav><footer aria-label="Site Info" class=" d-flex flex-column justify-content-center text-muted flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3 " ><p>© <time>2026</time> <a href="https://github.com/sinantang">Sinan Tang</a>. <span data-bs-toggle="tooltip" data-bs-placement="top" title="Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author." >Some rights reserved.</span></p><p>Using the <a data-bs-toggle="tooltip" data-bs-placement="top" title="v7.4.1" href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener" >Chirpy</a> theme for <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>.</p></footer></div></div><div id="search-result-wrapper" class="d-flex justify-content-center d-none"><div class="col-11 content"><div id="search-hints"><section><h2 class="panel-heading">Trending Tags</h2><div class="d-flex flex-wrap mt-3 mb-1 me-3"> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/learning/">learning</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/career/">career</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/reading/">reading</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/books/">books</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/programming/">programming</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/philosophy/">philosophy</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/python/">python</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/developer/">developer</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/newbie/">newbie</a> <a class="post-tag btn btn-outline-primary" href="/sinantang.github.io/pr-8/tags/nlp/">NLP</a></div></section></div><div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div></div></div></div><aside aria-label="Scroll to Top"> <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow"> <i class="fas fa-angle-up"></i> </button></aside></div><div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div><aside id="notification" class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-bs-animation="true" data-bs-autohide="false" ><div class="toast-header"> <button type="button" class="btn-close ms-auto" data-bs-dismiss="toast" aria-label="Close" ></button></div><div class="toast-body text-center pt-0"><p class="px-2 mb-3">A new version of content is available.</p><button type="button" class="btn btn-primary" aria-label="Update"> Update </button></div></aside><script> (function () { const themeMapper = Theme.getThemeMapper('light', 'dark_dimmed'); const initTheme = themeMapper[Theme.visualState]; let lang = 'en';if (lang.length > 2 && !lang.startsWith('zh')) { lang = lang.slice(0, 2); } let giscusAttributes = { src: 'https://giscus.app/client.js', 'data-repo': 'SinanTang/sinantang.github.io', 'data-repo-id': 'MDEwOlJlcG9zaXRvcnkxMDMxNzc1NTQ=', 'data-category': 'Blog Comments', 'data-category-id': 'DIC_kwDOBiZdUs4Cvteu', 'data-mapping': 'pathname', 'data-strict' : '0', 'data-reactions-enabled': '1', 'data-emit-metadata': '0', 'data-theme': initTheme, 'data-input-position': 'top', 'data-lang': lang, 'data-loading': 'lazy', crossorigin: 'anonymous', async: '' }; let giscusNode = document.createElement('script'); Object.entries(giscusAttributes).forEach(([key, value]) => giscusNode.setAttribute(key, value) ); const $footer = document.querySelector('footer'); $footer.insertAdjacentElement("beforebegin", giscusNode); addEventListener('message', (event) => { if (event.source === window && event.data && event.data.id === Theme.ID) { const newTheme = themeMapper[Theme.visualState]; const message = { setConfig: { theme: newTheme } }; const giscus = document.getElementsByClassName('giscus-frame')[0].contentWindow; giscus.postMessage({ giscus: message }, 'https://giscus.app'); } }); })(); </script> <script> document.addEventListener('DOMContentLoaded', () => { SimpleJekyllSearch({ searchInput: document.getElementById('search-input'), resultsContainer: document.getElementById('search-results'), json: '/sinantang.github.io/pr-8/assets/js/data/search.json', searchResultTemplate: '<article class="px-1 px-sm-2 px-lg-4 px-xl-0"><header><h2><a href="{url}">{title}</a></h2><div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1"> {categories} {tags}</div></header><p>{content}</p></article>', noResultsText: '<p class="mt-5">Oops! No results found.</p>', templateMiddleware: function(prop, value, template) { if (prop === 'categories') { if (value === '') { return `${value}`; } else { return `<div class="me-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`; } } if (prop === 'tags') { if (value === '') { return `${value}`; } else { return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`; } } } }); }); </script>
